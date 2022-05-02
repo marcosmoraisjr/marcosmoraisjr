@@ -1,7 +1,7 @@
 ###  Bem-vindo 👋
 
 <!--
-**mmstec/mmstec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mmstec/mmstec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 Atualmente estou trabalhando em segmentação de imagens como forma de apoio a médicina...
 - 🌱 Estou sempre buscando aprender novas tecnologias ..
@@ -11,7 +11,7 @@
 - 😄 Pronomes: ...
 - ⚡ Curiosidade: 
 Adoro programar, viajar, voar e ler sobre assuntos ligados a ciência e história..
--->
+
 <div>
 <a href="https://github.com/mmstec">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
