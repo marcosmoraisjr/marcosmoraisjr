@@ -12,9 +12,6 @@ Minha formação inclui :
 4. Licenciatura em Letras e Literaturas Portuguesas; 
 5. Vários cursos de capacitação na área de tecnologia e gestão de TI.
 
-## ⚡ Curiosidade: 
-- Adoro programar, viajar, voar e ler sobre assuntos ligados a ciência e história da humanidade.
-
 ## 🎯 Currículo:
 - https://lattes.cnpq.br/1514993227261604
 
