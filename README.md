@@ -1,6 +1,6 @@
 ##  👋 Bem-vindo !
 - Sou focado e muito dedicado às tarefas que me proponho a realizar.
-- Adoro programar, viajar, voar e ler sobre assuntos ligados a ciência e história da humanidade.
+- Piloto nas horas vagas, adoro programar, viajar e ler sobre assuntos ligados a ciência e história da humanidade.
 
 
 ## 🌱 Sobre:
