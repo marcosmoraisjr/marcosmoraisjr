@@ -3,7 +3,7 @@
 
 
 ## 🌱 Sobre:
-- Atualmente atuo como diretor de TI e pesquisador no Laboratório de Computação de Alto Desempenho da UEFS/BA e participo do PathoSpotter (https://pathospotter.bahia.fiocruz.br) na área de segmentação de imagens como forma de apoio a médicina.
+- Atualmente atuo como diretor de TI e pesquisador no Laboratório de Computação de Alto Desempenho da UEFS/BA (http://lacad.uefs.br/) e participo do PathoSpotter (https://pathospotter.bahia.fiocruz.br) na área de segmentação de imagens como forma de apoio a médicina.
 - Estou sempre buscando aprender novas tecnologias, ttrabalhando com tecnologia desde 1995. 
 Minha formação inclui :
 1. Mestrado em Ciência da Computação (em andamento); 
