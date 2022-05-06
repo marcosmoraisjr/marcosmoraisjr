@@ -11,7 +11,7 @@ Minha formação inclui :
 2. Pós-graduação em Gestão de Tecnologia da Informação; 
 3. Bacharelado em Sistemas de Informação; 
 4. Licenciatura em Letras e Literaturas Portuguesas; 
-5. Vários cursos de capacitação na área de tecnologia e gestão de TI.
+5. Capacitações na área de tecnologia e gestão de TI.
 
 ## 🎯 Currículo:
 - https://lattes.cnpq.br/1514993227261604
