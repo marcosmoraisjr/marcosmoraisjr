@@ -1,6 +1,7 @@
-##  👋 Olá, prazer! :)
-Sou desenvolvedor, analista de soluções em tecnologia e professor do ensino superior!
-Além de focado e muito dedicado às tarefas que me proponho a realizar, sou piloto nas horas vagas, desenvolvedor e adoro viajar e ler sobre assuntos ligados a ciência e história da humanidade. Como objetivos pessoais e profissionais busco desenvolver-me continuamente  para atuar como agente transformador de um mundo melhor e por isto, estou sempre disposto a novos desafios.
+##  👋 Olá, prazer! Sou Marcos Morais!
+Além de muito focado e dedicado às tarefas que me proponho a realizar, sou analista de soluções em tecnologia, desenvolvedor e professor do ensino superior!
+Como váuvula de escape, adoro viajar e ler sobre assuntos ligados a ciência e história da humanidade. 
+Como objetivos pessoais e profissionais estou constantemente buscando desenvolver-me para atuar como agente transformador do mundo e para isto estou sempre disposto a novos desafios.
 
 ## 🌱 Perfil profissional :
 - <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
