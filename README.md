@@ -1,20 +1,12 @@
-##  👋 Bem-vindo !
-- Sou focado e muito dedicado às tarefas que me proponho a realizar.
-- Piloto nas horas vagas, adoro programar, viajar e ler sobre assuntos ligados a ciência e história da humanidade.
+##  👋 Olá, prazer! :)
+Sou desenvolvedor, analista de soluções em tecnologia e professor do ensino superior!
+Além de focado e muito dedicado às tarefas que me proponho a realizar, sou piloto nas horas vagas, desenvolvedor e adoro viajar e ler sobre assuntos ligados a ciência e história da humanidade. Como objetivos pessoais e profissionais busco desenvolver-me continuamente  para atuar como agente transformador de um mundo melhor e por isto, estou sempre disposto a novos desafios.
 
+## 🌱 Perfil profissional :
+- <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
 
-## 🌱 Sobre:
-- Atualmente atuo como diretor de TI e pesquisador no Laboratório de Computação de Alto Desempenho da UEFS/BA (http://lacad.uefs.br/) e participo do PathoSpotter (https://pathospotter.bahia.fiocruz.br) na área de segmentação de imagens como forma de apoio a médicina.
-- Trabalho com tecnologia de informação desde 1995, buscando constantemente a ampliação de minha base de conhecimento. 
-Minha formação inclui :
-1. Mestrado em Ciência da Computação (em andamento); 
-2. Pós-graduação em Gestão de Tecnologia da Informação; 
-3. Bacharelado em Sistemas de Informação; 
-4. Licenciatura em Letras e Literaturas Portuguesas; 
-5. Capacitações na área de tecnologia e gestão de TI.
-
-## 🎯 Currículo:
-- https://lattes.cnpq.br/1514993227261604
+## 🎯 Currículo Lattes:
+- <a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
 
 ## 📫 Contato:
 <div>
