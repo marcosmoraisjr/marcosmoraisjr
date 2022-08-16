@@ -1,12 +1,12 @@
-##  👋 Olá, prazer! Sou Marcos Morais!
+##  👋 Prazer, sou Marcos Morais!
 Além de muito focado e dedicado às tarefas que me proponho a realizar, sou analista de soluções em tecnologia, desenvolvedor e professor do ensino superior!
 Como váuvula de escape, adoro viajar e ler sobre assuntos ligados a ciência e história da humanidade. 
 Como objetivos pessoais e profissionais estou constantemente buscando desenvolver-me para atuar como agente transformador do mundo e para isto estou sempre disposto a novos desafios.
 
-## 🌱 Perfil profissional :
+## 🎯 Perfil profissional :
 - <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
 
-## 🎯 Currículo Lattes:
+## 🌱 Currículo Lattes:
 - <a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
 
 ## 📫 Contato:
