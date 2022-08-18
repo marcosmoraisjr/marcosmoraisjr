@@ -6,7 +6,7 @@ Além de focado e dedicado às tarefas que me proponho a realizar, desde 1995 at
 
 Oportunidade de desenvolver projetos na área médica e/ou militar! 
 
-## 🎯 Perfil profissional :
+## 🎯 Perfil profissional:
 - <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
 
 ## 📫 Contato:
