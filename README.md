@@ -2,7 +2,7 @@
 
 Além de focado e dedicado às tarefas que me proponho a realizar, desde 1995 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador e para isto estou sempre disposto a novos desafios e aprendizados. 
 
-## 🎯 Um desafio
+## 🎯 Um desafio:
 
 Oportunidade de desenvolver projetos na área médica e/ou militar! 
 
