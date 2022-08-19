@@ -1,6 +1,7 @@
-npm i bootstrap-icons
-[![texto alternativo][1.1]][1]
+<h1 align="center">
+    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
 
+[![texto alternativo][1.1]][1]
 [1]: http://www.twitter.com/mmstec
 [1.1]: http://i.imgur.com/tXSoThF.png (texto título)
 
