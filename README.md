@@ -1,12 +1,4 @@
-<h1 align="center">
-    <img alt="Banner" title="#Banner" style="object-fit: cover; height:250px;" src=".github/readmebanner.png"  />
-</h1>
-
-[![texto alternativo][1.1]][1]
-[1]: http://www.twitter.com/mmstec
-[1.1]: http://i.imgur.com/tXSoThF.png (texto título)
-
-## 👋 Prazer, sou Marcos Morais!
+## 🤝 Prazer, sou Marcos Morais!
 
 Além de focado e dedicado às tarefas que me proponho a realizar, desde 1995 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador e para isto estou sempre disposto a novos desafios e aprendizados. 
 
@@ -14,10 +6,10 @@ Além de focado e dedicado às tarefas que me proponho a realizar, desde 1995 at
 
 Oportunidade de desenvolver projetos na área médica e/ou militar! 
 
-## 🎯 Perfil profissional:
+## 📌 Perfil profissional:
 - <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
 
-## 🌱 Currículo Lattes:
+## 👋 Currículo Lattes:
 <a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
 <div>
 <a href="https://github.com/mmstec">
