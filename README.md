@@ -1,3 +1,4 @@
+npm i bootstrap-icons
 [![texto alternativo][1.1]][1]
 
 [1]: http://www.twitter.com/mmstec
