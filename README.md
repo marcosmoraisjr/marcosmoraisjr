@@ -1,9 +1,11 @@
-<figure>
-	<img
-    style="border:5px solid black;text-align=center width: 200px; height: 200px; object-fit: cover;"
-    src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg?resize=700:*"
-    >
-<!--<figcaption>Informações da Figura</figcaption> /-->
+<figure style="width:963; height:225px; position:relative; background-color:#e2001a; margin-left:-9px; margin-top:-100px; " >
+	<img 
+		src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg" 
+		alt="Foto para clip" 
+		width="963"
+		height="300" 
+		style="position:absolute; clip:rect(70px, 963px, 225px, 0px); " > 
+		<!-- top right bottom left  /-->
 </figure>
 
 ## 🤝 Prazer, sou Marcos Morais!
