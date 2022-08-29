@@ -1,6 +1,7 @@
-<span style="border:1px solid red;text-align=center">
-<img scr='https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg'></img>
-</span>
+<figure style="border:1px solid red;text-align=center">
+  <img src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg" alt="mmstec">
+  <!--<figcaption>Informações da Figura</figcaption> /-->
+</figure>
 
 ## 🤝 Prazer, sou Marcos Morais!
 
