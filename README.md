@@ -10,17 +10,17 @@
 
 ## 🤝 Prazer, sou Marcos Morais!
 
-Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
+- Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
 
 ## 🎯 Um desafio especial:
 
-Oportunidade de desenvolver projetos na área médica e/ou militar! 
+- Oportunidade de desenvolver projetos na área médica e/ou militar! 
 
 ## 📌 Perfil profissional:
 - <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
 
 ## 👋 Currículo Lattes:
-<a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
+- <a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
 <div>
 <a href="https://github.com/mmstec">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
