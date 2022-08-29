@@ -1,6 +1,9 @@
-<figure style="border:5px solid black;text-align=center width: 200px;  height: 200px; object-fit: cover;">
-  <img src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg?resize=200:*" alt="mmstec">
-  <!--<figcaption>Informações da Figura</figcaption> /-->
+<figure>
+	<img
+    style="border:5px solid black;text-align=center width: 200px; height: 200px; object-fit: cover;"
+    src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg?resize=700:*"
+    >
+<!--<figcaption>Informações da Figura</figcaption> /-->
 </figure>
 
 ## 🤝 Prazer, sou Marcos Morais!
