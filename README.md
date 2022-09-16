@@ -10,7 +10,7 @@
 
 ## 🤝 Prazer, sou Marcos Morais!
 
-- Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
+- Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software, desde 2011! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
 
 ## 🎯 Um desafio especial:
 
