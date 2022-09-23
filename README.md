@@ -14,7 +14,7 @@
 
 ***
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
- <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec9&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
+ <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
 ***
 
 ## 👨‍💻 Perfil profissional:
