@@ -10,7 +10,7 @@
 
 ## 🤝 Prazer, sou Marcos Morais!
 
-- Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software, desde 2011! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
+- Estou sempre disposto a novos desafios, procurando liderar, ser autodidata e organizado. Trabalho desde 1995~1996 com soluções em tecnologia atuando como técnico, analista de sistemas e desenvolvedor. Participei no planejamento e execução de soluções tecnológicas em vários segmentos industriais e varejistas. Possuo licenciatura em Letras e Literaturas Portuguesas pela Universidade Estadual do Sudoeste da Bahia - UESB (1999), bacharelado em Sistemas de Informação (2009), Pós-graduação em Gestão de Tecnologia e Informação (2011) pela Universidade de Tecnologia e Ciências - UniFTC onde fui professor de 2010 a 2022.
 
 ***
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
