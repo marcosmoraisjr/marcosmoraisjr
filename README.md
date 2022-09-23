@@ -5,7 +5,7 @@
 		height="150px" 
 		style="position:absolute; clip:rect(70px, 963px, 225px, 0px); " > 
 		<!-- top right bottom left  /-->
-</figure> /-->
+</figure> -->
 
 ## 🤝 Prazer, sou Marcos Morais!
 
