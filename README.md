@@ -17,7 +17,7 @@
 	
 <a href="https://github.com/mmstec">
 <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
+<img height="180em" src="https://github-readme-stats.beryl.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
 </div>
 
 ## 📫 Conecte-se comigo:
