@@ -13,8 +13,8 @@
 - Sempre buscando aprender e aberto a desafios, sou focado e dedicado às tarefas que me proponho a realizar! Desde 1995~1996 atuo como analista de soluções em tecnologia, desenvolvedor e professor do ensino superior na área de desenvolvimento de software, desde 2011! Estou constantemente buscando desenvolver-me como pessoa e profissional para atuar como agente transformador do mundo a minha volta.
 
 ***
- <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
- <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
+ <img height="963px" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
+ <img height="963px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
 ***
 
 ## 👨‍💻 Perfil profissional:
