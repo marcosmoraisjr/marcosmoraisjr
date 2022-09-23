@@ -12,7 +12,7 @@
 
 - Profissionalmente, desenvolvo soluções em C#, PHP e Python. Estou diretor de TI em um grupo empresarial (no qual trabalho desde 1995) que é composto por empresas varejistas e industriais nas quais gerenciei o planejamento dos processos e a implantação do sistema de ERP (Enterprise Resource Planning) TOTVS (Winthor e Protheus).
 
-- Academicamente, estou cursando um mestrado em Ciências da Computação na Universidade Estadual de Feira de Santana - UEFS onde desenvolvo trabalhos que envolvem o processamento de imagens médicas renais (utilizando linguagem Python e framework OpenCV), participando como colaborador no Laboratório de Computação de Alto Desempenho da UEFS/BA (http://lacad.uefs.br/) e do projeto PathoSpotter (https://pathospotter.bahia.fiocruz.br)
+- Academicamente, estou concluindo um mestrado em Ciências da Computação na Universidade Estadual de Feira de Santana - UEFS onde desenvolvo trabalhos que envolvem o processamento de imagens médicas renais (utilizando linguagem Python e framework OpenCV), participando como colaborador no Laboratório de Computação de Alto Desempenho da UEFS/BA (http://lacad.uefs.br/) e do projeto PathoSpotter (https://pathospotter.bahia.fiocruz.br)
 
 ## 👨‍💻 Meus números:
 <a href="https://github.com/mmstec">
