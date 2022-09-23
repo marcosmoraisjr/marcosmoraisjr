@@ -16,7 +16,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
 </div>
 
-## 👨‍💻 Linguagens e Ferramentas:
+<!-- ## 👨‍💻 Linguagens e Ferramentas:
 <h4 align="left">Back-end:</h4>
 <p align="left">  
  <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a>
@@ -31,7 +31,7 @@
  <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a>
  <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 ## 📫 Conecte-se comigo:
 <div>
