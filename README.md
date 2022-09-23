@@ -11,28 +11,13 @@
 - Estou sempre disposto a novos desafios, procurando liderar, ser autodidata e organizado. Trabalho desde 1995~1996 com soluções em tecnologia atuando como técnico, analista de sistemas e desenvolvedor. Participei no planejamento e execução de soluções tecnológicas em vários segmentos industriais e varejistas. Possuo licenciatura em Letras e Literaturas Portuguesas pela Universidade Estadual do Sudoeste da Bahia - UESB (1999), bacharelado em Sistemas de Informação (2009), Pós-graduação em Gestão de Tecnologia e Informação (2011) pela Universidade de Tecnologia e Ciências - UniFTC onde fui professor de 2010 a 2022.
 
 ***
- <img height="200px" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
- <img height="200px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
+ <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=tokyonight&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
+ <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=tokyonight" alt="Marcos Morais's Stats" ><img>
 ***
-
-<h3 align="left">📫 Conecte-se comigo:</h3>
-<p align="left">
-[![texto alternativo](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/marcosmoraisjr "Linkedin")
-<a href="https://www.linkedin.com/in/marcosmoraisjr/" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
-<a href="mailto:mmstec@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
-<a href="https://github.com/mmstec/mmstec" target="blank" title="GitHub"><img align="center" src="./icons/github.png" height="40" width="40" /></a>
-<a href="https://lattes.cnpq.br/1514993227261604" target="blank" title="Lattes"><img align="center" src="./icons/lattes.png" height="40" width="40" /></a>
-<a href="https://instagram.com/mmstec" target="blank" title="Instagram"><img align="center" src="./icons/instagram.png" height="40" width="40" /></a>
-</p>
-
-## 👨‍💻 Perfil profissional:
-- <a href="https://www.linkedin.com/in/marcosmoraisjr/">https://www.linkedin.com/in/marcosmoraisjr/</a> 
-
-## 👋 Currículo Lattes:
-- <a href="https://lattes.cnpq.br/1514993227261604">https://lattes.cnpq.br/1514993227261604</a> 
-<div>
+	
 <a href="https://github.com/mmstec">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
+<img height="180em" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=mmstec&theme=light" alt="Marcos Morais's Stats" ><img>
 </div>
 
 ## 📫 Conecte-se comigo:
