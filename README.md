@@ -16,6 +16,23 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
 </div>
 
+## 👨‍💻 Linguagens e Ferramentas:
+<h4 align="left">Back-end:</h4>
+<p align="left">  
+ <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank"> <img src="./icons/docker.png" alt="Docker" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="./icons/postgre.png" alt="Pstgre SQL" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongo.png" alt="Mongo DB" width="40" height="40"/> </a>
+ <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
+ <a href="https://aws.amazon.com" target="_blank"> <img src="./icons/aws.png" alt="AWS" width="40" height="40"/> </a>
+ <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a>
+ <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
+ <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
+</p>
+
 ## 📫 Conecte-se comigo:
 <div>
      <a href="https://www.linkedin.com/in/mmstec" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
