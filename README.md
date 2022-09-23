@@ -17,12 +17,12 @@
 
 <h3 align="left">📫 Conecte-se comigo:</h3>
 <p align="left">
+[![texto alternativo](http://i.imgur.com/tXSoThF.png)](http://www.twitter.com/marcosmoraisjr "Linkedin")
 <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
 <a href="mailto:mmstec@gmai.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
 <a href="https://github.com/mmstec/mmstec" target="blank" title="GitHub"><img align="center" src="./icons/github.png" height="40" width="40" /></a>
 <a href="https://lattes.cnpq.br/1514993227261604" target="blank" title="Lattes"><img align="center" src="./icons/lattes.png" height="40" width="40" /></a>
 <a href="https://instagram.com/mmstec" target="blank" title="Instagram"><img align="center" src="./icons/instagram.png" height="40" width="40" /></a>
-
 </p>
 
 ## 👨‍💻 Perfil profissional:
