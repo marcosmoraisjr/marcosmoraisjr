@@ -3,9 +3,8 @@
 		src="https://user-images.githubusercontent.com/26969915/187194803-0d64dae2-bfbf-4813-be01-89006ce96160.jpg" 
 		alt="Foto para clip" 
 		height="150px" 
-		style="position:absolute; clip:rect(70px, 963px, 225px, 0px); " > 
-		<!-- top right bottom left  /-->
-</figure> -->
+		style="position:absolute; clip:rect(70px, 963px, 225px, 0px); "> 
+</figure> /-->
 
 ## 🤝 Prazer, sou Marcos Morais!
 
