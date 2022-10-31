@@ -14,7 +14,7 @@ Sou bacharel em Sistemas de Informação, pós-graduado em gestão de tecnologia
 
 Trabalhei em empresas dos mais variados segmentos, desde indústrias a empresas de varejo como materiais de construção, concessionárias, postos de combustíveis, utilidades diversas entre outras.
 
-Tenho experiência em implantação de ERP TOTVS, conhecimento em OO, C#, ASP.NET, Python, WEB etc.,, tendo atuado mais de 10 anos como professor universitário.
+Tenho experiência em implantação de ERP TOTVS, conhecimento em OO, C#, ASP.NET, Python, PHP, etc, tendo atuado mais de 10 anos como professor universitário.
 
 Tenho interesse em desenvolver minhas habilidades e crescer na profissão.
 
