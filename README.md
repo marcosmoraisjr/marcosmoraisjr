@@ -8,11 +8,15 @@
 
 ## 🤝 Prazer, sou Marcos Morais!
 
-- Estou sempre disposto a novos desafios, procurando liderar, ser autodidata e organizado. Trabalho desde 1995~1996 com soluções em tecnologia atuando como técnico, analista de sistemas e desenvolvedor. Participei no planejamento e execução de soluções tecnológicas em vários segmentos industriais e varejistas. Possuo licenciatura em Letras e Literaturas Portuguesas pela Universidade Estadual do Sudoeste da Bahia - UESB (1999), bacharelado em Sistemas de Informação (2009), Pós-graduação em Gestão de Tecnologia e Informação (2011) pela Universidade de Tecnologia e Ciências - UniFTC onde fui professor de 2010 a 2022.
+Sou desenvolvedor com experiência acumulada desde 1995. 
 
-- Profissionalmente, desenvolvo soluções em C#, PHP e Python. Estou diretor de TI em um grupo empresarial (no qual trabalho desde 1995) que é composto por empresas varejistas e industriais nas quais gerenciei o planejamento dos processos e a implantação do sistema de ERP (Enterprise Resource Planning) TOTVS (Winthor e Protheus).
+Sou bacharel em Sistemas de Informação, pós-graduado em gestão de tecnologia e cursando um mestrado em ciência da compução.
 
-- Academicamente, estou concluindo um mestrado em Ciências da Computação na Universidade Estadual de Feira de Santana - UEFS onde desenvolvo trabalhos que envolvem o processamento de imagens médicas renais (utilizando linguagem Python e framework OpenCV), participando como colaborador no Laboratório de Computação de Alto Desempenho da UEFS/BA (http://lacad.uefs.br/) e do projeto PathoSpotter (https://pathospotter.bahia.fiocruz.br)
+Trabalhei em empresas dos mais variados segmentos como indústrias e empresas de varejo (materiais de construção, concessionárias, postos de combustíveis, utilidades diversas, bootiques, etc.)  
+
+Tenho experiência em implantação de ERP TOTVS, conhecimento em OOP, C#, ASP.NET, Python, WEB entre outras, tendo atuado mais de 10 anos como professor universitário.
+
+Tenho interesse em desenvolver minhas habilidades e crescer na profissão.
 
 ## 👨‍💻 Meus números:
 <a href="https://github.com/mmstec">
