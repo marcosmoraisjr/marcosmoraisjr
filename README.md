@@ -10,13 +10,13 @@
 
 Sou desenvolvedor com experiência acumulada desde 1995. 
 
-Sou bacharel em Sistemas de Informação, pós-graduado em gestão de tecnologia e cursando um mestrado em ciência da compução.
+Sou bacharel em Sistemas de Informação, pós-graduado em gestão de tecnologia e MsC em ciência da compunção.
 
-Trabalhei em empresas dos mais variados segmentos como indústrias e empresas de varejo (materiais de construção, concessionárias, postos de combustíveis, utilidades diversas, bootiques, etc.)  
+Trabalhei em empresas dos mais variados segmentos, desde indústrias a empresas de varejo como materiais de construção, concessionárias, postos de combustíveis, utilidades diversas entre outras.
 
 Tenho experiência em implantação de ERP TOTVS, conhecimento em OO, C#, ASP.NET, Python, WEB entre outras, tendo atuado mais de 10 anos como professor universitário.
 
-Tenho interesse em desenvolver minhas habilidades e crescer na profissão.
+Tenho interesse em desenvolver minhas habilidades e crescer na profissão
 
 ## 👨‍💻 Meus números:
 <a href="https://github.com/mmstec">
