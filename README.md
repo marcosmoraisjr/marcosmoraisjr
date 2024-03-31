@@ -20,10 +20,14 @@
 
 ## 👨‍💻 Meus números:
 <div>
-<a href="https://github.com/mmstec">
-<img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=light&show_icons=true" alt="Marcos Morais's GitHub stats"><img>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light"/>
+  <a href="https://github.com/mmstec">
+    <img height="180em" src="https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=light&show_icons=true" alt="Estatísticas do GitHub de Marcos Morais">
+  </a>
+  <a href="https://github.com/mmstec">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light" alt="Linguagens mais usadas de Marcos Morais no GitHub">
+  </a>
 </div>
+
 
 <!-- ## 👨‍💻 Linguagens e Ferramentas:
 <h4 align="left">Back-end:</h4>
