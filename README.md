@@ -19,7 +19,8 @@
 ✨ Minha empatia e resiliência permitem-me adaptar-me a diferentes ambientes e situações, enquanto minha gestão eficaz do tempo garante a entrega de projetos dentro do prazo e com qualidade superior. Estou aberto a novas oportunidades de colaboração e empenhado no avanço e inovação na área de tecnologia.
 
 ## 👨‍💻 Meus números:
-[![Estatísticas do GitHub de Marcos Morais](https://github-readme-stats-beryl.vercel.app/api?username=mmstec&theme=light&show_icons=true)](https://github.com/mmstec)
+
+[![Estatísticas do GitHub de Marcos Morais](https://github-readme-stats.vercel.app/api?username=mmstec&theme=light&show_icons=true)](https://github.com/mmstec)
 [![Linguagens mais usadas de Marcos Morais no GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=mmstec&layout=compact&langs_count=7&theme=light)](https://github.com/mmstec)
 
 
