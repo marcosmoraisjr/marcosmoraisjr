@@ -6,7 +6,7 @@
 		style="position:absolute; clip:rect(70px, 963px, 225px, 0px); "> 
 </figure> /-->
 
-##👋🏻 Saudações!
+## 👋🏻 Saudações!
 
 🚀 Eu sou Marcos Morais, apaixonado pela transformação de ideias em soluções tecnológicas impactantes.
 
@@ -17,21 +17,6 @@
 🌟 Destaco-me por competências como comunicação eficaz, trabalho em equipe colaborativo e resolução de problemas. Sou proativo, criativo, empático e resiliente, comprometido com a inovação na tecnologia.
 
 ✨ Minha empatia e resiliência permitem-me adaptar-me a diferentes ambientes e situações, enquanto minha gestão eficaz do tempo garante a entrega de projetos dentro do prazo e com qualidade superior. Estou aberto a novas oportunidades de colaboração e empenhado no avanço e inovação na área de tecnologia.
-
-
-<!--
-
-## 🤝 Prazer, sou Marcos Morais!
-
-Sou desenvolvedor com experiência acumulada desde 1995. 
-
-Sou bacharel em Sistemas de Informação, pós-graduado em gestão de tecnologia e MsC em ciência da computação.
-
-Trabalhei em empresas dos mais variados segmentos, desde indústrias a empresas de varejo como materiais de construção, concessionárias, postos de combustíveis, utilidades diversas entre outras.
-
-Tenho experiência em implantação de ERP TOTVS, conhecimento em OO, C#, ASP.NET, Python, PHP, etc, tendo atuado mais de 10 anos como professor universitário.
-
-Tenho interesse em desenvolver minhas habilidades e crescer na profissão.  /-->
 
 ## 👨‍💻 Meus números:
 <a href="https://github.com/mmstec">
