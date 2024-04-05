@@ -8,15 +8,13 @@
 
 ## 👋🏻 Saudações!
 
-🚀 Eu sou Marcos Morais, apaixonado pela transformação de ideias em soluções tecnológicas impactantes.
+🌟 Sou Desenvolvedor Web especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.
 
-🎓 Possuo mestrado em Ciência da Computação e pós-graduação em Gestão de TI, acumulando mais de uma década de experiência no desenvolvimento de soluções em informática nos setores de varejo, indústria, educação e saúde.
+👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar os desafios mais complexos do desenvolvimento de software.
 
-💼 Tenho habilidades técnicas sólidas em C#, Python, .NET, ASP.NET, PHP, HTML, CSS, JavaScript, Oracle, SQL Server, MySQL e NoSQL, com experiência em sistemas ERP como Protheus e Winthor da TOTVS.
+🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
 
-🌟 Destaco-me por competências como comunicação eficaz, trabalho em equipe colaborativo e resolução de problemas. Sou proativo, criativo, empático e resiliente, comprometido com a inovação na tecnologia.
-
-✨ Minha empatia e resiliência permitem-me adaptar-me a diferentes ambientes e situações, enquanto minha gestão eficaz do tempo garante a entrega de projetos dentro do prazo e com qualidade superior. Estou aberto a novas oportunidades de colaboração e empenhado no avanço e inovação na área de tecnologia.
+💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
 
 ## 👨‍💻 Meus números:
 
