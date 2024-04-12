@@ -1,4 +1,4 @@
-<h1 align="left">👋🏻 Saudações ...</h1>
+<h1 align="left">👋🏻 Greetings...</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About</h2>
 
 ###
 
@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="left">Social Media: Hello World!!</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
@@ -92,7 +92,7 @@
 
 ###
 
-<h2 align="left">My number</h2>
+<h2 align="left">Statistic</h2>
 
 ###
 
