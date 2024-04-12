@@ -1,8 +1,8 @@
-<h1 align="left">👋🏻 Greetings...</h1>
+<h1 align="left">👋🏻 Greetings... i´m Marcos Morais, Full-Stack Developer!</h1>
 
 ###
 
-<p align="left">💼 Eu sou Marcos Morais, Full-Stack Developer!<br><br>🚀 Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos.</p>
+<p align="left">💼 Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos.</p>
 
 ###
 
