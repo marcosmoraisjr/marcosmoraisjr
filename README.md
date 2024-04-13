@@ -14,6 +14,11 @@
 
 ###
 
+
+<img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
@@ -110,9 +115,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
