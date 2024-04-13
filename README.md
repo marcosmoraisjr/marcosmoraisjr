@@ -110,8 +110,6 @@
 
 ###
 
-github-readme-stats-three-vert.vercel.app
-
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 
 ###
