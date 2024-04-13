@@ -102,7 +102,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserverb-original.svg" height="40" alt="sqlserver logo"  />
+  !["SQL Server"](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
