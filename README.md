@@ -14,6 +14,13 @@
 
 ###
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjrt&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjrt&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+###
+
 <h2 align="left">Techs: I code with</h2>
 
 ###
@@ -102,6 +109,8 @@
 </div>
 
 ###
+
+github-readme-stats-three-vert.vercel.app
 
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 
