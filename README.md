@@ -14,7 +14,6 @@
 
 ###
 
-
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -87,7 +86,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">Contacts</h2>
 
 ###
 
