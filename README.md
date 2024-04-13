@@ -89,8 +89,12 @@
 
 #### Databases:
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
