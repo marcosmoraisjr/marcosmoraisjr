@@ -20,40 +20,40 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 - #### Habilidades Técnicas:
 
 <P align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </p>
 
 - #### Databases:
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+  ![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+  ![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
-#### Ferramentas de Trabalho:
+- #### Ferramentas de Trabalho:
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-F0503C?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+  ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-F0503C?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 
 ## Estatísticas do GitHub
 
