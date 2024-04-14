@@ -81,10 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
 </div>
 
-
 #### Secondary Stack:
-
-#### Studying in this moment:
 
 #### Databases:
 
