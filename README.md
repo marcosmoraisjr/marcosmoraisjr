@@ -148,12 +148,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Email: mmstec@gmail.com
-- Twitter: [@marcosmoraisjr](https://twitter.com/marcosmoraisjr)
-- Outros: [links para outras redes sociais ou sites pessoais]
-
-  <div align="left">
   <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
