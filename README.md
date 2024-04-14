@@ -20,6 +20,30 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 #### Habilidades Técnicas:
 
 <div align="left">
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![OpenCV](https://img.shields.io/badge/OpenCV-53777A?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
+  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-56338A?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+  ![VSCode](https://img.shields.io/badge/VSCode-1F6EBD?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+  ![Docker](https://img.shields.io/badge/Docker-0DB7EE?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+  ![C](https://img.shields.io/badge/C-539953?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+  ![C#](https://img.shields.io/badge/C%23-538DD5?style=for-the-badge&logo=dotNET&logoColor=white)&nbsp;
+  
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS3](https://img.shields.io/badge/CSS3-1589FF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodejs&logoColor=white)&nbsp;
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextjs&logoColor=white)&nbsp;
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+  ![Git](https://img.shields.io/badge/Git-F0503C?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+  ![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
+  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)
+</div>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
