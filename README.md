@@ -17,9 +17,9 @@
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
-#### Habilidades Técnicas:
+- #### Habilidades Técnicas:
 
-- <P align="left">
+<P align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -34,7 +34,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </p>
 
-#### Databases:
+- #### Databases:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
