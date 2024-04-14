@@ -10,7 +10,7 @@
 💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
   
 - 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
-- 🌱 Atualmente estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity.
+- 🌱 Estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity e IA.
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
 ## Linguagens e Ferramentas
