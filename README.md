@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-🔬 Sou pesquisador e entusiasta da tecnologia, apaixonado por solucionar problemas e ao aprendizado contínuo. Estou sempre fascinado pela oportunidade de contribuir para o desenvolvimento de indivíduos, impulsionar o progresso tecnológico e adquirir e compartilhar conhecimentos.
+🔬 Sou pesquisador e entusiasta da tecnologia, apaixonado por solucionar problemas e aprender continuamente. Estou sempre fascinado pela oportunidade de contribuir para o desenvolvimento de indivíduos, impulsionar o progresso tecnológico e adquirir e compartilhar conhecimentos.
 💼 Tenho experiência em como desenvolvedor, especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.
 👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.
 🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
