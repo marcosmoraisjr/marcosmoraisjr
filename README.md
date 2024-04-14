@@ -1,4 +1,4 @@
-![banner_github](https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/ea04147d-150f-4c4a-a142-d4fb876b50e5)
+![HelloWord_C](https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/edd04e08-4343-48de-84af-ee1ec4629585)
 
 # 👋 Bem-vindo ao meu perfil do GitHub!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
