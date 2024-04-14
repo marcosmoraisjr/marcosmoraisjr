@@ -19,7 +19,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 #### Habilidades Técnicas:
 
-<P align="left">
+- <P align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
