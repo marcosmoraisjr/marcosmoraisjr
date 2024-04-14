@@ -89,8 +89,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ## Redes Sociais
 
-Conecte-se comigo nas redes sociais:
-
 [![Linktree](https://img.shields.io/badge/Linktree-Visit-9cf)](https://linktr.ee/marcosmoraisjr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marcosmoraisjr/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/marcosmoraisjr/)
