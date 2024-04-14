@@ -19,7 +19,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 #### Habilidades Técnicas:
 
-<div align="left">
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![OpenCV](https://img.shields.io/badge/OpenCV-53777A?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
@@ -40,8 +39,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![Git](https://img.shields.io/badge/Git-F0503C?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
-  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)
-</div>
+  
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -99,8 +98,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
 
 ## Estatísticas do GitHub
 
