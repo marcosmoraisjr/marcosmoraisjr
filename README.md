@@ -90,16 +90,11 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 Conecte-se comigo nas redes sociais:
 
-[![Linktree](https://cdn.fontastic.com/s/fa/fa-link.svg?c=0.75)](https://linktr.ee/marcosmoraisjr)
-[![LinkedIn](https://cdn.fontastic.com/s/fa/fa-linkedin.svg?c=0.75)](https://www.linkedin.com/in/marcosmoraisjr/)
-[![Instagram](https://cdn.fontastic.com/s/fa/fa-instagram.svg?c=0.75)](https://www.instagram.com/marcosmoraisjr/)
-[![Gmail](https://cdn.fontastic.com/s/fa/fa-envelope.svg?c=0.75)](mailto:mmstec@gmail.com)
-[![Twitter](https://cdn.fontastic.com/s/fa/fa-twitter.svg?c=0.75)](https://twitter.com/mmstec)
-
-
-
-  
-</div>
+[![Linktree](https://img.shields.io/badge/Linktree-Visit-9cf)](https://linktr.ee/marcosmoraisjr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marcosmoraisjr/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/marcosmoraisjr/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mmstec@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mmstec)
 
 ###
 
