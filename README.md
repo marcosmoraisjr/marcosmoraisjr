@@ -86,40 +86,17 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
-### 
-## Contato
-
-  <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://linktr.ee/marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" height="40" alt="linktree logo"  />
-  </a>
-  
-  <a href="https://youtube.com.br/@marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" height="40" alt="youtube logo"  />
-  </a>
-  
-  <a href="https://twitter.com/mmstec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="40" alt="twitter logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram logo"  />
-  </a>
-
-###
-
 ## Redes Sociais
 
 Conecte-se comigo nas redes sociais:
 
-[![Linktree](https://cdn.fontastic.com/s/fa/fa-link.svg?c=0.75)](https://linktr.ee/marcosmorasjr)
-[![LinkedIn](https://cdn.fontastic.com/s/fa/fa-linkedin.svg?c=0.75)(https://www.linkedin.com/in/marcosmorasjr/)
-[![Instagram](https://cdn.fontastic.com/s/fa/fa-instagram.svg?c=0.75)(https://www.instagram.com/marcosmorasjr/)
-[![Gmail](https://cdn.fontastic.com/s/fa/fa-envelope.svg?c=0.75)(mmstec@gmail.com)
-[![Twitter](https://cdn.fontastic.com/s/fa/fa-twitter.svg?c=0.75)(https://twitter.com/marcosmorasjr)
+[![Linktree](https://cdn.fontastic.com/s/fa/fa-link.svg?c=0.75)](https://linktr.ee/marcosmoraisjr)
+[![LinkedIn](https://cdn.fontastic.com/s/fa/fa-linkedin.svg?c=0.75)](https://www.linkedin.com/in/marcosmoraisjr/)
+[![Instagram](https://cdn.fontastic.com/s/fa/fa-instagram.svg?c=0.75)](https://www.instagram.com/marcosmoraisjr/)
+[![Gmail](https://cdn.fontastic.com/s/fa/fa-envelope.svg?c=0.75)](mailto:mmstec@gmail.com)
+[![Twitter](https://cdn.fontastic.com/s/fa/fa-twitter.svg?c=0.75)](https://twitter.com/mmstec)
+
+
 
   
 </div>
