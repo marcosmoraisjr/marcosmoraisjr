@@ -104,8 +104,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmarcosmoraisjr101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Acessos%3A++&ta=" /></p> 
-
 ## Contato
 
   <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
