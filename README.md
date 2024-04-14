@@ -13,6 +13,8 @@
 - 🌱 Estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity e IA.
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
+### 
+
 ## Linguagens e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
@@ -55,8 +57,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
   ![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 
+### 
 ## Estatísticas do GitHub
-
 ###
 
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
@@ -81,6 +83,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
+### 
 ## Contato
 
   <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
