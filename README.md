@@ -78,33 +78,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
 </div>
 
-#### Secondary Stack:
 
-#### Databases:
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-</div>
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 
 
@@ -124,6 +98,8 @@ Olá! Meu nome é Marcos Morais, e sou um entusiasta da tecnologia apaixonado po
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
+
+
 #### Databases:
 
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
@@ -142,7 +118,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
