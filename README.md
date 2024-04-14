@@ -101,7 +101,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
+  Acessos: <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
 ## Contato
