@@ -1,4 +1,4 @@
-<img src="/assets/img/arquivo.gif">
+<img src="[/assets/img/arquivo.gif](https://github.com/marcosmoraisjr/marcosmoraisjr/issues/3#issue-2242248611)">
 
 # 👋 Bem-vindo ao meu perfil do GitHub!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
