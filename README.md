@@ -84,7 +84,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ###
 <div align="center">
-  Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
+  Vistantes:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
 ## Redes Sociais
