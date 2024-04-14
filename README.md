@@ -39,7 +39,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
   <img src="https://raw.githubusercontent.com/marcosmoraisjr/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-
 - #### Databases:
 
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
