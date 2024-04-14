@@ -59,10 +59,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ### 
 ## Estatísticas do GitHub
+
 ###
-
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div  align="center" style="margin-bottom:100px">
