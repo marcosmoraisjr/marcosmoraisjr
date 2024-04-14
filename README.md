@@ -100,6 +100,10 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ###
 
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+
 <div align="center">
   Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
