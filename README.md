@@ -1,14 +1,17 @@
-## Wellcome!👋🏻 <br />
-
+# 👋 Bem-vindo ao meu perfil do GitHub!
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
+## Sobre mim
 
+Olá! Meu nome é Marcos Morais, e sou um entusiasta da tecnologia apaixonado por resolver problemas e aprender coisas novas. ❤️ Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos. 💼 Tenho experiência em como desenvolvedor, especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.<br><br>👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.<br><br>🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.<br><br>💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
 
-###
+- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
+- 🌱 Atualmente estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity.
+- 👯 Estou procurando colaborar em projetos que me desafiem.
 
-<h2 align="left">Skills</h2>
+## Linguagens e Ferramentas
 
-###
+Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
 #### Main Stack:
 
@@ -54,26 +57,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
 </div>
-
-
-
-
-
-
---------------------------------
-# 👋 Bem-vindo ao meu perfil do GitHub!
-
-## Sobre mim
-
-Olá! Meu nome é Marcos Morais, e sou um entusiasta da tecnologia apaixonado por resolver problemas e aprender coisas novas. ❤️ Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos. 💼 Tenho experiência em como desenvolvedor, especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.<br><br>👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.<br><br>🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.<br><br>💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
-
-- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
-- 🌱 Atualmente estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity.
-- 👯 Estou procurando colaborar em projetos que me desafiem.
-
-## Linguagens e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
 #### Databases:
 
