@@ -109,11 +109,13 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" height="40" alt="instagram logo"  />
   </a>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/linkedin.svg" height="40" alt="linkedin logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/linktree.svg" height="40" alt="linktree logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/youtube.svg" height="40" alt="youtube logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/twitter.svg" height="40" alt="twitter logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/instagram.svg" height="40" alt="instagram logo"  />
+###
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
+/>
+<i class="ci ci-spotify ci-2x"></i>
   
 </div>
 
