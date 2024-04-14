@@ -109,44 +109,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://linktr.ee/marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  </a>
-  
-  <a href="https://youtube.com.br/@marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  
-  <a href="https://twitter.com/mmstec" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  
-  <a href="https://www.instagram.com/marcosmoraisjr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
-</div>
-
-###
-
-
-
 
 
 --------------------------------
@@ -187,8 +149,38 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 ## Contato
 
 - LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- Email: seu-email@example.com
-- Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
+- Email: mmstec@gmail.com
+- Twitter: [@marcosmoraisjr](https://twitter.com/marcosmoraisjr)
 - Outros: [links para outras redes sociais ou sites pessoais]
+
+  <div align="left">
+  <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://linktr.ee/marcosmoraisjr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  </a>
+  
+  <a href="https://youtube.com.br/@marcosmoraisjr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  
+  <a href="https://twitter.com/mmstec" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  
+  <a href="https://www.instagram.com/marcosmoraisjr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
+</div>
+
+###
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
