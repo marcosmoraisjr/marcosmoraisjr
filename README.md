@@ -71,7 +71,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 </div>
 
 ###
+<div  align="center" style="margin-bottom:100px">
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ###
 <div  align="center" style="margin-bottom:100px">
