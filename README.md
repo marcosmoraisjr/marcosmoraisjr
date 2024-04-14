@@ -98,8 +98,6 @@ Olá! Meu nome é Marcos Morais, e sou um entusiasta da tecnologia apaixonado po
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
-
-
 #### Databases:
 
  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
@@ -118,7 +116,25 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ## Estatísticas do GitHub
 
+###
 
+<img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
+</div>
+
+###
+
+<div  align="center" style="margin-bottom:100px">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcosmoraisjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosmoraisjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
