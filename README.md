@@ -1,6 +1,6 @@
 <h1 align="left">👋🏻 Wellcome!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil.;I+am+constantly+learning%2C+fascinated+with+contributing+to+the+development+of+people%2C+providing+improvements+to+the+technological+world+and+acquiring+and+sharing+knowledge." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&multiline=true&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil.;%F0%9F%92%BC+Estou+em+constante+aprendizado%2C+;fascinado+em+contribuir+para+o+desenvolvimento+de+pessoas%2C;proporcionar+melhorias+para+o+mundo+tecnol%C3%B3gico+e+adquirir+e+compartilhar+conhecimentos" alt="Typing SVG" /></a>
 
 <p align="left">💼 Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos.</p>
 
