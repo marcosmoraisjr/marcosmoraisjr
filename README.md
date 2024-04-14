@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil.)](https://git.io/typing-svg)
 
-###
-
 <p align="left">💼 Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos.</p>
 
 ###
