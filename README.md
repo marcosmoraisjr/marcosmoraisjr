@@ -6,10 +6,8 @@
 
 ###
 
-<p align="left" style="color: #36BCF7FF;">❤️ Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos.
-</p>
 
-<p align="left">💼 Sou Desenvolvedor Web especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.<br><br>👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.<br><br>🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.<br><br>💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.</p>
+
 
 ###
 
@@ -116,7 +114,7 @@
 
 ## Sobre mim
 
-Olá! Meu nome é [Seu Nome], e sou um entusiasta da tecnologia apaixonado por resolver problemas e aprender coisas novas. Tenho experiência em [listar suas áreas de experiência] e estou sempre procurando oportunidades para expandir meu conhecimento.
+Olá! Meu nome é Marcos Morais, e sou um entusiasta da tecnologia apaixonado por resolver problemas e aprender coisas novas. ❤️ Estou em constante aprendizado, fascinado em contribuir para o desenvolvimento de pessoas, proporcionar melhorias para o mundo tecnológico e adquirir e compartilhar conhecimentos. 💼 Tenho experiência em como desenvolvedor, especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.<br><br>👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.<br><br>🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.<br><br>💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
 
 - 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
 - 🌱 Atualmente estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity.
