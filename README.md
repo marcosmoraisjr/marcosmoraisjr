@@ -82,6 +82,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosmoraisjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150%" alt="languages graph"  />
 </div>
 
+![computador](https://github.com/marcosmoraisjr/marcosmoraisjr/issues/4#issue-2242248756)
+
 ###
 <div align="center">
   Vistantes:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
