@@ -17,7 +17,7 @@
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
-#### Main Stack:
+#### Habilidades Técnicas:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
