@@ -20,6 +20,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 #### Habilidades Técnicas:
 
 <div align="left">
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![OpenCV](https://img.shields.io/badge/OpenCV-53777A?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
   ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
@@ -28,7 +29,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![Docker](https://img.shields.io/badge/Docker-0DB7EE?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
   ![C](https://img.shields.io/badge/C-539953?style=for-the-badge&logo=c&logoColor=white)&nbsp;
   ![C#](https://img.shields.io/badge/C%23-538DD5?style=for-the-badge&logo=dotNET&logoColor=white)&nbsp;
-  
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS3](https://img.shields.io/badge/CSS3-1589FF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
