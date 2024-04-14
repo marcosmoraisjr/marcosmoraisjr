@@ -1,6 +1,6 @@
 <h1 align="left">👋🏻 Wellcome!</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil.)](https://git.io/typing-svg)
 
 ###
 
