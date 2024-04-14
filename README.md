@@ -24,18 +24,18 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 - #### Habilidades Técnicas:
 
 <P align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
 </p>
 
 - #### Databases:
@@ -62,16 +62,19 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 ### 
 ## Estatísticas do GitHub
 
-<div  align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" width=100% alt="Snake animation" />
+<div align="center" style="margin-bottom:100px">
+<img width=100%  src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ###
 <div  align="center" style="margin-bottom:100px">
@@ -80,7 +83,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 </div>
 
 ###
-
 <div align="center">
   Acessos:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
@@ -96,7 +98,6 @@ Conecte-se comigo nas redes sociais:
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mmstec)
 
 ###
-
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
