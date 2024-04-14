@@ -87,7 +87,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 </div>
 
 ###
-<div align="center">
+<div align="center" style="color: #00FF00;">
   Vistantes:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
