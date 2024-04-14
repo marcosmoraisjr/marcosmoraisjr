@@ -156,18 +156,40 @@
 
 Olá! Meu nome é [Seu Nome], e sou um entusiasta da tecnologia apaixonado por resolver problemas e aprender coisas novas. Tenho experiência em [listar suas áreas de experiência] e estou sempre procurando oportunidades para expandir meu conhecimento.
 
-- 💼 Atualmente estou trabalhando como [sua posição atual] na [empresa/organização]
-- 🌱 Atualmente estou aprendendo [o que você está estudando atualmente]
-- 👯 Estou procurando colaborar em projetos relacionados a [área de interesse]
+- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
+- 🌱 Atualmente estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity.
+- 👯 Estou procurando colaborar em projetos que me desafiem.
 
 ## Linguagens e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
 - [Tecnologia 1]
-- [Tecnologia 2]
-- [Tecnologia 3]
-- ...
+#### Databases:
+
+ - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+ - ![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)
+ - ![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+ - ![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+ - ![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)
+ - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 ## Estatísticas do GitHub
 
