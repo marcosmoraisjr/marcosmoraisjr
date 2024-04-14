@@ -146,6 +146,10 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
+</div>
+
 ## Contato
 
   <a href="https://www.linkedin.com/in/marcosmoraisjr/" target="_blank">
@@ -167,12 +171,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   <a href="https://www.instagram.com/marcosmoraisjr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
 </div>
 
 ###
