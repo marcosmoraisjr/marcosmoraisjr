@@ -37,15 +37,15 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 #### Databases:
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL_Server-1F8DBC?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
 ![Paradox](https://img.shields.io/badge/Paradox-4330A3?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)
+![dBase](https://img.shields.io/badge/dBase-006BA1?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 #### Ferramentas de Trabalho:
 
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -64,8 +64,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 ###
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ###
