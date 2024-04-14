@@ -60,6 +60,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 ### 
 ## Estatísticas do GitHub
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ###
 <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 ###
