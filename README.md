@@ -1,3 +1,4 @@
+![HelloWord_C](https://github.com/marcosmoraisjr/marcosmoraisjr/issues/9#issue-2242410522)
 ![HelloWord_C](https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/edd04e08-4343-48de-84af-ee1ec4629585)
 
 # 👋 Bem-vindo ao meu perfil do GitHub!
