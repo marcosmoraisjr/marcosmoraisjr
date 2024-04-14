@@ -37,9 +37,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
 </p>
 
-  <img src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+  <img src="https://raw.githubusercontent.com/marcosmoraisjr/img/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 - #### Databases:
 
