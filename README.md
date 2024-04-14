@@ -111,11 +111,16 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ###
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-<i class="ci ci-spotify ci-2x"></i>
+## Redes Sociais
+
+Conecte-se comigo nas redes sociais:
+
+[![Linktree](https://cdn.fontastic.com/s/fa/fa-link.svg?c=0.75)](https://linktr.ee/marcosmorasjr)
+[![LinkedIn](https://cdn.fontastic.com/s/fa/fa-linkedin.svg?c=0.75)(https://www.linkedin.com/in/marcosmorasjr/)
+[![Instagram](https://cdn.fontastic.com/s/fa/fa-instagram.svg?c=0.75)(https://www.instagram.com/marcosmorasjr/)
+[![Gmail](https://cdn.fontastic.com/s/fa/fa-envelope.svg?c=0.75)(mmstec@gmail.com)
+[![Twitter](https://cdn.fontastic.com/s/fa/fa-twitter.svg?c=0.75)(https://twitter.com/marcosmorasjr)
+
   
 </div>
 
