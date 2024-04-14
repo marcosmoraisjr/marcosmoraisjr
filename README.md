@@ -1,6 +1,8 @@
-<h1 align="left">👋🏻 Wellcome!</h1>
+<h1 align="left">👋🏻 Wellcome! <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=40&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
+
+</h1>
 
 <h1 align="left"><a href="[https://git.io/typing-svg](https://www.linkedin.com/in/marcosmoraisjr/)"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!;I%C2%B4m+from+Brazil." alt="Typing SVG" /></h1>
 
