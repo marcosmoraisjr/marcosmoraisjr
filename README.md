@@ -22,9 +22,9 @@
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
 - #### Habilidades Técnicas:
-  <P align="left">
-    &nbsp;&nbsp;&nbsp;
-    
+
+<P align="left">
+    &nbsp;&nbsp;&nbsp; 
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
@@ -37,23 +37,21 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
-  </p>
-
-- #### Databases:
-
-  <P align="left">
-    &nbsp;&nbsp;&nbsp;
-    <img height="32" src="https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo" />
-    <img height="32" src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" />
-    <img height="32" src="https://img.shields.io/badge/SQL_Server-FFFF00?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQL Server logo" />
-    <img height="32" src="https://img.shields.io/badge/Paradox-0000FF?style=for-the-badge&logo=dataweave&logoColor=white" alt="Paradox logo" />
-    <img height="32" src="https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white" alt="dBase logo" />
-    <img height="32" src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" />
  </p>
 
-- #### Ferramentas de Trabalho:
+- #### Databases:
+<P align="left">
+   &nbsp;&nbsp;&nbsp; 
+   <img height="32" src="https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo" />
+   <img height="32" src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" />
+   <img height="32" src="https://img.shields.io/badge/SQL_Server-FFFF00?style=for-the-badge&logo=sqlserver&logoColor=white" alt="SQL Server logo" />
+   <img height="32" src="https://img.shields.io/badge/Paradox-0000FF?style=for-the-badge&logo=dataweave&logoColor=white" alt="Paradox logo" />
+   <img height="32" src="https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white" alt="dBase logo" />
+   <img height="32" src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" />
+</p>
 
-  <P align="left">
+- #### Ferramentas de Trabalho:
+ <P align="left">
     &nbsp;&nbsp;&nbsp;
     <img height="32" src="https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio logo" />
     <img height="32" src="https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode logo">
@@ -65,8 +63,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 </p>
 
 ### 
-## Estatísticas do GitHub
 
+## Estatísticas do GitHub
 <div align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
