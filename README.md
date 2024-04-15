@@ -52,14 +52,16 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 - #### Ferramentas de Trabalho:
 
-  
-  ![VScode](https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-  ![Azure](https://img.shields.io/badge/Azure-007BFF?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-FF0000?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-  ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FFFF00?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
-  ![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-72cb26?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+ <P align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="32" src="vs-code-light-blue.svg" alt="VScode logo" />
+    <img height="32" src="azure-dark-blue.svg" alt="Azure logo" />
+    <img height="32" src="docker-blue.svg" alt="Docker logo" />
+    <img height="32" src="ubuntu-orange.svg" alt="Ubuntu logo" />
+    <img height="32" src="codeigniter-yellow.svg" alt="CodeIgniter logo" />
+    <img height="32" src="git-purple.svg" alt="Git logo" />
+    <img height="32" src="github-green.svg" alt="GitHub logo" />
+</p>
 
 ### 
 ## Estatísticas do GitHub
