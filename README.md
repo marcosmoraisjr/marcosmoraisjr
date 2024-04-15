@@ -57,7 +57,6 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/Git-F0503C?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-  ![GitLab](https://img.shields.io/badge/GitLab-456C86?style=for-the-badge&logo=gitlab&logoColor=white)&nbsp;
 
 ### 
 ## Estatísticas do GitHub
@@ -83,7 +82,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 ###
 <div align="center">
-<img src="https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/80fb427d-5407-46b6-86c4-63e728b45ebb" style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/80fb427d-5407-46b6-86c4-63e728b45ebb" style="display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 ###
