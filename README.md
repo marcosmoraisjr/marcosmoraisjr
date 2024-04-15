@@ -59,14 +59,14 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![GitHub](https://img.shields.io/badge/GitHub-17151E?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
   ---
- ![Visual Studio](https://img.shields.io/badge/Visual_Studio-FFFF00?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
- ![VScode](https://img.shields.io/badge/vscode-FFC107?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
- ![Azure](https://img.shields.io/badge/Azure-FFA500?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
- ![Docker](https://img.shields.io/badge/Docker-F57C00?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+ ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+ ![VScode](https://img.shields.io/badge/vscode-0089FF?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+ ![Azure](https://img.shields.io/badge/Azure-FF6347?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+ ![Docker](https://img.shields.io/badge/Docker-33CCFF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
- ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FF9933?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
- ![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=white)&nbsp;
- ![GitHub](https://img.shields.io/badge/GitHub-FFE699?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+ ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-2196F3?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
+ ![Git](https://img.shields.io/badge/Git-DC007E?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+ ![GitHub](https://img.shields.io/badge/GitHub-007ACC?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ### 
 ## Estatísticas do GitHub
