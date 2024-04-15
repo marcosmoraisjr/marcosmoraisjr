@@ -24,6 +24,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 - #### Habilidades Técnicas:
   <P align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
@@ -54,6 +55,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
   <P align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="32" src="https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio logo" />
     <img height="32" src="https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode logo">
     <img height="32" src="https://img.shields.io/badge/Azure-0000FF?style=for-the-badge&logo=azure&logoColor=white" alt="Azure logo">
     <img height="32" src="https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo">
