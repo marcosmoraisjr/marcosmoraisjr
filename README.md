@@ -40,6 +40,9 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 - #### Databases:
 
+ <P align="left">
+  <img height="32" src="https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode logo" />
+ </p>
   ![Oracle](<img src="https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white" height="32" alt="Oracle logo">)&nbsp;
   ![Oracle](https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -50,7 +53,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 - #### Ferramentas de Trabalho:
 
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-FF0000?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
+  
   ![VScode](https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
   ![Azure](https://img.shields.io/badge/Azure-007BFF?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
