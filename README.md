@@ -48,6 +48,15 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
   ![dBase](https://img.shields.io/badge/dBase-c400ff?style=for-the-badge&logo=database&logoColor=white)&nbsp;
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+
+----
+![Oracle](https://img.shields.io/badge/Oracle-F05133?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-007BFF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-C9302C?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+![Paradox](https://img.shields.io/badge/Paradox-563C7C?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+![dBase](https://img.shields.io/badge/dBase-198754?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 - #### Ferramentas de Trabalho:
 
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
