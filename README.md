@@ -24,7 +24,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 - #### Habilidades Técnicas:
 
 <P align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
@@ -50,8 +51,8 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 - #### Ferramentas de Trabalho:
 
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
-  ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+  ![VScode](https://img.shields.io/badge/vscode-72cb26?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+  ![Azure](https://img.shields.io/badge/Azure-25becc?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
   ![Docker](https://img.shields.io/badge/Docker-239CE2?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E84B30?style=for-the-badge&logo=codeigniter&logoColor=white)&nbsp;
