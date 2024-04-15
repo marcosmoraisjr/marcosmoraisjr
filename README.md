@@ -59,6 +59,14 @@ Sure, here's the code using a primary color palette:
 ![dBase](https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
+###
+![Oracle](https://img.shields.io/badge/Oracle-E63946?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-A0C4FF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-53777A?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+![Paradox](https://img.shields.io/badge/Paradox-FFC99D?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+![dBase](https://img.shields.io/badge/dBase-C62CC8?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-7788AA?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
 - #### Ferramentas de Trabalho:
 
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
