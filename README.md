@@ -52,7 +52,7 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
 - #### Ferramentas de Trabalho:
 
- <P align="left">
+  <P align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
     <img height="32" src="https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo">
     <img height="32" src="https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode logo">
