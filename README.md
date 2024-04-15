@@ -54,13 +54,13 @@ Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou f
 
  <P align="left">
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="32" src="vs-code-light-blue.svg" alt="VScode logo" />
-    <img height="32" src="azure-dark-blue.svg" alt="Azure logo" />
-    <img height="32" src="docker-blue.svg" alt="Docker logo" />
-    <img height="32" src="ubuntu-orange.svg" alt="Ubuntu logo" />
-    <img height="32" src="codeigniter-yellow.svg" alt="CodeIgniter logo" />
-    <img height="32" src="git-purple.svg" alt="Git logo" />
-    <img height="32" src="github-green.svg" alt="GitHub logo" />
+    <img height="32" src="https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle logo">
+    <img height="32" src="https://img.shields.io/badge/vscode-00FFFF?style=for-the-badge&logo=vscode&logoColor=white" alt="VScode logo">
+    <img height="32" src="https://img.shields.io/badge/Azure-0000FF?style=for-the-badge&logo=azure&logoColor=white" alt="Azure logo">
+    <img height="32" src="https://img.shields.io/badge/Docker-0000FF?style=for-the-badge&logo=docker&logoColor=white" alt="Docker logo">
+    <img height="32" src="https://img.shields.io/badge/CodeIgniter-FFFF00?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter logo">
+    <img height="32" src="https://img.shields.io/badge/Git-9D38BD?style=for-the-badge&logo=git&logoColor=white" alt="Git logo">
+    <img height="32" src="https://img.shields.io/badge/GitHub-72cb26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo">
 </p>
 
 ### 
