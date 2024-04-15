@@ -22,50 +22,30 @@
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
 - #### Habilidades Técnicas:
-
-<P align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
-</p>
+  <P align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
+  </p>
 
 - #### Databases:
 
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-  ![MySQL](https://img.shields.io/badge/MySQL-0075BF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-0d00ff?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-  ![Paradox](https://img.shields.io/badge/Paradox-ffcc00?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-  ![dBase](https://img.shields.io/badge/dBase-c400ff?style=for-the-badge&logo=database&logoColor=white)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-
-----
-Sure, here's the code using a primary color palette:
-
-![Oracle](https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-FFFF00?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Paradox](https://img.shields.io/badge/Paradox-0000FF?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-![dBase](https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-###
-![Oracle](https://img.shields.io/badge/Oracle-E63946?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-A0C4FF?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-53777A?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
-![Paradox](https://img.shields.io/badge/Paradox-FFC99D?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
-![dBase](https://img.shields.io/badge/dBase-C62CC8?style=for-the-badge&logo=database&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-7788AA?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Oracle](https://img.shields.io/badge/Oracle-007BFF?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-FFFF00?style=for-the-badge&logo=sqlserver&logoColor=white)&nbsp;
+  ![Paradox](https://img.shields.io/badge/Paradox-0000FF?style=for-the-badge&logo=dataweave&logoColor=white)&nbsp;
+  ![dBase](https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+  ![MongoDB](https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 - #### Ferramentas de Trabalho:
 
