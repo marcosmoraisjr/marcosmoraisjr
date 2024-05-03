@@ -16,6 +16,10 @@
 - 🎓 Estou aprendendo Ciência de dados e Python avançado.
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
+### Interesses Especiais
+
+💚 Tenho um interesse especial pelo desenvolvimento pelo desenvolvimento de sistemas militares e estudos em Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. Esses campos são essenciais para avançar as capacidades tecnológicas e estratégicas na defesa e segurança nacional.
+
 ### 
 
 ## Linguagens e Ferramentas
