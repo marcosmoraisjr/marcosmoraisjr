@@ -11,8 +11,9 @@
 🚀 Ao longo de mais de duas décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
 💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
   
-- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor no Grupo Valdir Barreto.
-- 🌱 Estou aprendendo Angular e ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity e IA.
+- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor.
+- 🌱 Estou aprendendo Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
+- 🎓 Estou aprendendo Ciência de dados e Python avançado.
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
 ### 
