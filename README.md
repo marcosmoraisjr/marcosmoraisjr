@@ -6,16 +6,18 @@
 ## Sobre mim
 
 #🔬 Sou um profissional de TI com décadas de experiência, especializado em C#, ASP.NET, WebForms, Python e PHP, além de bancos de dados como SQL Server e Oracle. Possuo um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharelado em Sistemas de Informação. Atualmente, atuo como Gerente de TI e Desenvolvedor, focado em aprender novas tecnologias como Angular, ASP.NET Core e Ciência de Dados. Reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, sou dedicado a resolver desafios tecnológicos e desenvolver sistemas inovadores.
+ 
+### Trabalho
+- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor C#.
 
-🔬 Sou um entusiasta da tecnologia e pesquisador dedicado, apaixonado por solucionar desafios e sempre sedento por aprendizado contínuo. Minha paixão é contribuir para o desenvolvimento pessoal e tecnológico, adquirindo e compartilhando conhecimento.
-💼 Tenho experiência em como desenvolvedor, especializado em C#, ASP.NET e WebForms, com proficiência em Python, PHP e bancos de dados como SQL Server e Oracle.
-👨‍🎓 Com um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharel em Sistemas de Informação, estou preparado para enfrentar desafios complexos no desenvolvimento de software.
-🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
-💡 Sou reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, características que me permitem superar expectativas e entregar resultados excepcionais.
-  
-- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor.
-- 🌱 Estou aprendendo Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
-- 🎓 Estou aprendendo Ciência de dados e Python avançado.
+### Estudando
+- 🌱 Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
+- 🎓 Ciência de dados e Python avançado.
+
+### Experiência
+- 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
+
+### Objetivos
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
 ### Interesses Especiais
