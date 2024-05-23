@@ -18,7 +18,7 @@
 
 ### Interesses Especiais
 
-💚 Desenvolvimento de sistemas militares e estudos em Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. Esses campos são essenciais para avançar as capacidades tecnológicas e estratégicas na defesa e segurança nacional.
+💚 Desenvolvimento de sistemas militares e estudos em Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. 
 
 ### 
 
