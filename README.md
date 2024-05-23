@@ -20,7 +20,7 @@
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
 #### Interesses Especiais:
-- 💚 Desenvolvimento de sistemas militares e estudos em Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. 
+- 💚 Desenvolvimento de sistemas de saúde e militares, Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. 
 
 ### 
 
