@@ -24,9 +24,6 @@
 
 ### 
 
-#### Linguagens e Ferramentas:
-Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
-
 #### Habilidades Técnicas:
 
 <P align="left">
