@@ -20,13 +20,13 @@
 ### Objetivos
 - 👯 Estou procurando colaborar em projetos que me desafiem.
 
-### Interesses Especiais
+- ### Interesses Especiais
 
 - 💚 Desenvolvimento de sistemas militares e estudos em Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. 
 
 ### 
 
-### Linguagens e Ferramentas
+- ### Linguagens e Ferramentas
 
 Aqui estão algumas das tecnologias com as quais trabalho e com as quais estou familiarizado:
 
