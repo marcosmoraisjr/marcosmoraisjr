@@ -7,15 +7,15 @@
 
 #🔬 Sou um profissional de TI com décadas de experiência, especializado em C#, ASP.NET, WebForms, Python e PHP, além de bancos de dados como SQL Server e Oracle. Possuo um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharelado em Sistemas de Informação. Atualmente, atuo como Gerente de TI e Desenvolvedor, focado em aprender novas tecnologias como Angular, ASP.NET Core e Ciência de Dados. Reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, sou dedicado a resolver desafios tecnológicos e desenvolver sistemas inovadores.
  
-### Trabalho
+### Atualmente
 - 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor C#.
+
+### Experiência
+- 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
 
 ### Estudando
 - 🌱 Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
 - 🎓 Ciência de dados e Python avançado.
-
-### Experiência
-- 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
 
 ### Objetivos
 - 👯 Estou procurando colaborar em projetos que me desafiem.
