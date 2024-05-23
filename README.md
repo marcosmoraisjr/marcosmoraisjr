@@ -14,7 +14,7 @@
 
 #### Estudando:
 - 🌱 Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
-- 🎓 Ciência de dados e Python avançado.
+- 🎓 Python e Ciência de dados.
 
 #### Objetivos:
 - 👯 Estou procurando colaborar em projetos que me desafiem.
