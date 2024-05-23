@@ -10,7 +10,7 @@
 - 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor C#.
 
 #### Experiência:
-- 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
+- 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo sistemas para varejo, para indústria, para saúde e professor de universidade.
 
 #### Estudando:
 - 🌱 Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
