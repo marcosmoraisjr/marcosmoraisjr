@@ -3,14 +3,13 @@
 # 👋 Bem-vindo ao meu perfil do GitHub!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
-## Sobre mim
-
+## Sobre mim:
 #🔬 Sou um profissional de TI com décadas de experiência, especializado em C#, ASP.NET, WebForms, Python e PHP, além de bancos de dados como SQL Server e Oracle. Possuo um mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharelado em Sistemas de Informação. Atualmente, atuo como Gerente de TI e Desenvolvedor, focado em aprender novas tecnologias como Angular, ASP.NET Core e Ciência de Dados. Reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, sou dedicado a resolver desafios tecnológicos e desenvolver sistemas inovadores.
  
-#### Atualmente
+#### Atualmente:
 - 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor C#.
 
-#### Experiência
+#### Experiência:
 - 🚀 Ao longo de décadas, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo varejo, indústria, educação e saúde.
 
 #### Estudando
