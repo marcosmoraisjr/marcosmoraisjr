@@ -1,6 +1,6 @@
 ![HelloWord](https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/f11bb052-6a55-43cf-9455-41d4dfd36b76)
 
-#👋 Bem-vindo ao meu perfil do GitHub!
+👋 Bem-vindo ao meu perfil do GitHub!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
 # Sobre mim:
