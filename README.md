@@ -4,25 +4,54 @@
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
 ## Sobre mim:
-#🔬 Sou um profissional de TI com décadas de experiência, especializado em C#, ASP.NET, WebForms, Python e PHP, além de bancos de dados como SQL Server e Oracle. Possuo mestrado em Ciência da Computação, pós-graduação em Gestão de TI e bacharelado em Sistemas de Informação. Atualmente, atuo como Gerente de TI e Desenvolvedor, focado em aprender novas tecnologias como Angular, ASP.NET Core e Ciência de Dados. Reconhecido por minha abordagem proativa, criatividade e paixão pelo trabalho em equipe, sou dedicado a resolver desafios tecnológicos e desenvolver sistemas inovadores.
+#🔬 Desenvolvedor Full Stack | Especialista em Tecnologia e Inovação 🚀
+
+Com uma trajetória de décadas no setor de tecnologia, marcada por sucessos consecutivos com ideias inovadoras, iniciei minha carreira como desenvolvedor autodidata em 1995. Desde então, tenho continuamente buscado evoluir. Atuei em diversos segmentos como saúde, varejo e indústria. Durante quase 10 anos, lecionei como professor universitário. Atualmente, estou diretor de projetos de TI e desenvolvedor, liderando equipes e gerenciando iniciativas de alto impacto. 
  
-#### Atualmente:
-- 💼 Atualmente estou trabalhando como Gerente de TI e Desenvolvedor C#.
+#### 🎓 Formação Acadêmica:
 
-#### Experiência:
-- 🚀 Ao longo vários anos, tenho liderado e contribuído para o desenvolvimento de soluções inovadoras em diversos setores, incluindo sistemas para varejo, para indústria, para saúde e professor de universidade.
+- Master of Science in Computer Science (UEFS), 2022.
+- Postgraduate Diploma in IT Management (UNEX), 2012.
+- Bachelor of Information Systems (UNEX), 2010.
 
-#### Estudando:
-- 🌱 Angular com ASP.NET Core Web API, Entity Framework Core e ASP.NET Core Identity + MongoDB.
-- 🎓 Python e Ciência de dados.
+#### 💼 Experiência Profissional:
 
-#### Objetivos:
-- 👯 Estou procurando colaborar em projetos que me desafiem.
+1. Experiência sólida em desenvolvimento com C# e .NET Core
+2. Conhecimento avançado em PL/SQL, criação e manutenção de bancos de dados.
+3. Habilidade para trabalhar em equipe, boa comunicação com experiência comprovada em docência e projetos de melhoramento de processos e automação.
+5. Proficiente em metodologias ágeis como Scrum, promovendo eficiência e entrega contínua.
 
-#### Interesses Especiais:
-- 💚 Desenvolvimento de sistemas de saúde e militares, Inteligência Artificial (IA), incluindo Machine Learning, Deep Learning, Processamento de Linguagem Natural, Visão Computacional e Sistemas de Recomendação. 
+#### 💡 Projetos Destacados:
 
-### 
+1. Implementação de uma solução de sistema para anotação médica que automatiza o trabalho de patologistas.
+2. Desenvolvimento de um gerador de aplicativos em camadas para C# + SQL SERVER, acelerando o desenvolvimento.
+3. Implantação bem-sucedida do sistema de gestão WinThor da TOTVS.
+4. Criação de um Portal Corporativo que aumentou a conversão em 30%.
+5. Colaboração no desenvolvimento do sistema gerencial para laboratórios de análises clínicas (GÊNESIS) e Projeto e implementação de um Sistema de Gestão Comercial (FUSION WEB).
+
+#### 🔧 Habilidades Técnicas:
+
+1. Experiência sólida em desenvolvimento com C# e .NET Core, Python, PHP, HTML, CSS, JavaScript.
+2. Experiência em bancos de dados: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
+3. Práticas avançadas de versionamento de código usando Git e familiaridade com práticas de Azure DevOps.
+4. Conhecimento e práticas em testes de software e desenvolvimento ágil.
+
+#### 🪖 Missão
+
+Entregar soluções de software inovadoras simples, eficientes e de alta qualidade.
+
+#### 👁️ Visão
+
+Ser referência em liderança e desenvolvimento de software.
+
+#### 💎 Valores
+
+1. Inovação: Buscar novas ideias continuamente.
+2. Determinação: Persistir diante de desafios.
+3. Proatividade: Antecipar necessidades.
+4. Simplicidade: Valorização de soluções práticas.
+5. Disciplina: Manter postura ética e profissional.
+6. Colaboração: Valorizar a troca de conhecimentos.
 
 #### Habilidades Técnicas:
 
