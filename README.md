@@ -6,7 +6,7 @@
 # Sobre mim:
 ### 🔬 Desenvolvedor Full Stack | Especialista em Tecnologia e Inovação 🚀
 
-Com uma trajetória de décadas no setor de tecnologia, marcada por sucessos consecutivos com ideias inovadoras, iniciei minha carreira como desenvolvedor autodidata em 1995. Desde então, tenho continuamente buscado evoluir. Atuei em diversos segmentos como saúde, varejo e indústria. Durante quase 10 anos, lecionei como professor universitário. Atualmente, estou diretor de projetos de TI e desenvolvedor, liderando equipes e gerenciando iniciativas de alto impacto. 
+Com uma trajetória de décadas no setor de tecnologia, marcada por sucessos consecutivos com ideias inovadoras, iniciei minha carreira como desenvolvedor autodidata em 1995. Desde então, tenho continuamente buscado evoluir. Atuei em diversos segmentos como saúde, varejo e indústria. Durante quase 10 anos, lecionei como professor universitário. Atualmente, estou lider no projeto Residência em Software 36 - Bahia (Restic36), diretor de projetos de TI e desenvolvedor, liderando equipes e gerenciando iniciativas de alto impacto. 
  
 #### 🎓 Formação Acadêmica:
 
