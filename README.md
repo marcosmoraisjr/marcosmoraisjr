@@ -29,7 +29,7 @@ With years of experience in the technology sector, I began my career as a self-t
 
 1. **Pathospotter Project**: During my stay at the High-Performance Computing Laboratory ([LaCAD](http://lacad.uefs.br/)), I participated in the research project called [Pathospotter](https://pathospotter.bahia.fiocruz.br/#/team). In this project, I applied computer vision techniques to assist in nephropathology diagnosis, specifically focusing on developing a semi-automatic method to estimate interstitial fibrosis from digital images of renal biopsy slides. Additionally, I was responsible for implementing the [Cytomine](https://cytomine.com/about) platform within the project, addressing a long-standing issue related to annotating areas of interest in large images.
 
-2. **API and RESTful Client Development**: My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries such as OpenCV.
+2. **API RESTful Client Development**: My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries such as OpenCV.
 
 3. **Successful Implementation of the WinThor Management System**: I successfully implemented the WinThor management system from TOTVS.
 
