@@ -27,10 +27,10 @@ With years of experience in the technology sector, I began my career as a self-t
 
 #### 💡 Featured Projects:
 
-1. Implementation of a medical annotation system solution that automates pathologists' work.
+1. During my tenure at the High-Performance Computing Laboratory (<a href="http://lacad.uefs.br/">LaCAD</a>), I participated in a research project called <a hhef="https://pathospotter.bahia.fiocruz.br/#/team">Pathospotter</a>. In this project, I applied computer vision techniques to assist in nephropathology diagnosis, specifically focusing on developing a semi-automatic method for estimating interstitial fibrosis from digital images of renal biopsy slides. My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries. Additionally, I was responsible for implementing the (<a href="https://cytomine.com/about">Cytomine</a>). platform within the project. This integration addressed a long-standing issue related to annotating areas of interest in large-sized images.
 2. Development of a layered application generator for C# + SQL SERVER, accelerating development.
 3. Successful implementation of the WinThor management system from TOTVS.
-4. Creation of a Corporate Portal that increased conversion by 30%.
+4. Creation of a Corporate Portal that increased conversion by 30%
 5. Collaboration in the development of the management system for clinical analysis laboratories (GENESIS) and project and implementation of a Commercial Management System (FUSION WEB).
 
 #### 🔧 Technical Skills:
