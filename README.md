@@ -4,9 +4,11 @@
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
 # Sobre mim:
+
 ### 🔬 Desenvolvedor Full Stack | Especialista em Tecnologia e Inovação 🚀
 
-Com décadas de experiência no setor de tecnologia, iniciei minha carreira como desenvolvedor autodidata em 1995. Desde então, tenho atuado em diversos segmentos, como saúde, varejo e indústria. Além disso, fui professor em uma universidade por quase 10 anos. Atualmente, lidero a Trilha 7 - Desenvolvimento BackEnd no projeto Residência em Software 36 - Bahia (Restic36), onde gerencio equipes e conduzo iniciativas de alto impacto. Meu compromisso é alcançar com minhas equipes resultados excepcionais, seja na linha de código ou na sala de reuniões. 😊🚀
+Com décadas de experiência no setor de tecnologia, iniciei minha carreira como desenvolvedor autodidata. Desde então, atuei em diversos segmentos, como saúde, educação, varejo e indústria. Além disso, fui professor em uma universidade por quase 10 anos. Atualmente lidero a Trilha 7 - Desenvolvimento BackEnd no projeto Residência em Software 36 - Bahia (Restic36), onde ajudo a gerenciar equipes e conduzir iniciativas de alto impacto. Meu compromisso é alcançar com minhas equipes resultados excepcionais, seja na linha de código ou na sala de reuniões. 😊🚀
+
  
 #### 🎓 Formação Acadêmica:
 
