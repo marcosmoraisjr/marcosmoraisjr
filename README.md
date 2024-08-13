@@ -33,7 +33,7 @@ With years of experience in the technology sector, I began my career as a self-t
 
 3. **Successful Implementation of the WinThor Management System**: I successfully implemented the WinThor management system from TOTVS.
 
-4. **Creation of a Corporate Portal**: I developed a Corporate Portal that increased conversion by 30%.
+4. **Creation of a Corporate Portal**: I developed a Corporate Portal (Enterprise) that increased conversion by 30%.
 
 5. **Collaboration on Management Systems**: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).
 
