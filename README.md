@@ -20,7 +20,7 @@ With years of experience in the technology sector, I began my career as a self-t
 
 #### 💼 Professional Experience:
 
-1. Solid experience in development with C# and .NET Core
+1. Solid experience in development with .NET/Python.
 2. Advanced knowledge in PL/SQL, database creation, and maintenance.
 3. Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.
 5. Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.
