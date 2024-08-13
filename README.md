@@ -7,7 +7,7 @@
 
 ### 🔬 Desenvolvedor Full Stack | Especialista em Tecnologia e Inovação 🚀
 
-Com décadas de experiência no setor de tecnologia, iniciei minha carreira como desenvolvedor autodidata. Desde então, atuei em diversos segmentos, como saúde, educação, varejo e indústria. Além disso, fui professor em uma universidade por quase 10 anos. Atualmente lidero a Trilha 7 - Desenvolvimento BackEnd no projeto Residência em Software 36 - Bahia (Restic36), onde ajudo a gerenciar equipes e conduzir iniciativas de alto impacto. Meu compromisso é alcançar com minhas equipes resultados excepcionais, seja na linha de código ou na sala de reuniões. 😊🚀
+Com anos de experiência no setor de tecnologia, iniciei minha carreira como desenvolvedor autodidata. Desde então, atuei em diversos segmentos, como saúde, educação, varejo e indústria. Além disso, fui professor em uma universidade por quase 10 anos. Atualmente lidero a Trilha 7 - Desenvolvimento BackEnd no projeto Residência em Software 36 - Bahia (Restic36), onde ajudo a gerenciar equipes e conduzir iniciativas de alto impacto. Meu compromisso é alcançar com minhas equipes resultados excepcionais, seja na linha de código ou na sala de reuniões. 😊🚀
 
  
 #### 🎓 Formação Acadêmica:
