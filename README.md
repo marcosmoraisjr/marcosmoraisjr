@@ -1,42 +1,42 @@
 ![HelloWord](https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/f11bb052-6a55-43cf-9455-41d4dfd36b76)
 
-👋 Bem-vindo ao meu perfil do GitHub!
+👋 Welcome to my GitHub profile!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/"><img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" /></a>
 
-# Sobre mim:
+# About me:
 
-### 🔬 Desenvolvedor Full Stack | Especialista em Tecnologia e Inovação 🚀
+### 🔬 Full Stack Developer | Technology and Innovation Specialist 🚀
 
-Com anos de experiência no setor de tecnologia, iniciei minha carreira como desenvolvedor autodidata. Desde então, atuei em diversos segmentos, como saúde, educação, varejo e indústria. Além disso, fui professor em uma universidade por quase 10 anos. Atualmente lidero a Trilha 7 - Desenvolvimento BackEnd no projeto Residência em Software 36 - Bahia (Restic36), onde ajudo a gerenciar equipes e conduzir iniciativas de alto impacto. Meu compromisso é alcançar com minhas equipes resultados excepcionais, seja na linha de código ou na sala de reuniões. 😊🚀
+With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
 
  
-#### 🎓 Formação Acadêmica:
+#### 🎓 Academic Background:
 
 - Master of Science in Computer Science (UEFS), 2022.
 - Postgraduate Diploma in IT Management (UNEX), 2012.
 - Bachelor of Information Systems (UNEX), 2010.
 
-#### 💼 Experiência Profissional:
+#### 💼 Professional Experience:
 
-1. Experiência sólida em desenvolvimento com C# e .NET Core
-2. Conhecimento avançado em PL/SQL, criação e manutenção de bancos de dados.
-3. Habilidade para trabalhar em equipe, boa comunicação com experiência comprovada em docência e projetos de melhoramento de processos e automação.
-5. Proficiente em metodologias ágeis como Scrum, promovendo eficiência e entrega contínua.
+1. Solid experience in development with C# and .NET Core
+2. Advanced knowledge in PL/SQL, database creation, and maintenance.
+3. Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.
+5. Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.
 
-#### 💡 Projetos Destacados:
+#### 💡 Featured Projects:
 
-1. Implementação de uma solução de sistema para anotação médica que automatiza o trabalho de patologistas.
-2. Desenvolvimento de um gerador de aplicativos em camadas para C# + SQL SERVER, acelerando o desenvolvimento.
-3. Implantação bem-sucedida do sistema de gestão WinThor da TOTVS.
-4. Criação de um Portal Corporativo que aumentou a conversão em 30%.
-5. Colaboração no desenvolvimento do sistema gerencial para laboratórios de análises clínicas (GÊNESIS) e Projeto e implementação de um Sistema de Gestão Comercial (FUSION WEB).
+1. Implementation of a medical annotation system solution that automates pathologists' work.
+2. Development of a layered application generator for C# + SQL SERVER, accelerating development.
+3. Successful implementation of the WinThor management system from TOTVS.
+4. Creation of a Corporate Portal that increased conversion by 30%.
+5. Collaboration in the development of the management system for clinical analysis laboratories (GENESIS) and project and implementation of a Commercial Management System (FUSION WEB).
 
-#### 🔧 Habilidades Técnicas:
+#### 🔧 Technical Skills:
 
-1. Experiência sólida em desenvolvimento com C# e .NET Core, Python, PHP, HTML, CSS, JavaScript.
-2. Experiência em bancos de dados: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
-3. Práticas avançadas de versionamento de código usando Git e familiaridade com práticas de Azure DevOps.
-4. Conhecimento e práticas em testes de software e desenvolvimento ágil.
+1. Solid experience in development with C# and .NET Core, Python, PHP, HTML, CSS, JavaScript.
+2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
+3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
+4. Knowledge and practices in software testing and agile development.
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
@@ -53,22 +53,22 @@ Com anos de experiência no setor de tecnologia, iniciei minha carreira como des
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
  </p>
 
-#### 🪖 Missão
+#### 🪖 Mission
 
-Entregar soluções de software inovadoras simples, eficientes e de alta qualidade.
+Deliver innovative, simple, efficient, and high-quality software solutions.
 
-#### 👁️ Visão
+#### 👁️ Vision
 
-Ser referência em liderança e desenvolvimento de software.
+Be a reference in software leadership and development.
 
-#### 💎 Valores
+#### 💎 Values
 
-1. Inovação: Buscar novas ideias continuamente.
-2. Determinação: Persistir diante de desafios.
-3. Proatividade: Antecipar necessidades.
-4. Simplicidade: Valorização de soluções práticas.
-5. Disciplina: Manter postura ética e profissional.
-6. Colaboração: Valorizar a troca de conhecimentos.
+1. Innovation: Continuously seek new ideas.
+2. Determination: Persist in the face of challenges.
+3. Proactivity: Anticipate needs.
+4. Simplicity: Value practical solutions.
+5. Discipline: Maintain ethical and professional conduct.
+6. Collaboration: Value knowledge sharing.
 
 - #### Databases:
 <P align="left">
@@ -81,7 +81,7 @@ Ser referência em liderança e desenvolvimento de software.
    <img height="32" src="https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white" alt="dBase logo" />
 </p>
 
-- #### Ferramentas de Trabalho:
+- #### Work Tools:
  <P align="left">
     &nbsp;&nbsp;&nbsp;
     <img height="32" src="https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio logo" />
@@ -95,7 +95,7 @@ Ser referência em liderança e desenvolvimento de software.
 
 ### 
 
-## Estatísticas do GitHub
+## GitHub Stats
 <div align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
@@ -110,28 +110,7 @@ Ser referência em liderança e desenvolvimento de software.
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
-<div  align="center" style="margin-bottom:100px">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcosmoraisjr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcosmoraisjr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-<div align="center">
-  <img src="https://github.com/marcosmoraisjr/marcosmoraisjr/assets/26969915/80fb427d-5407-46b6-86c4-63e728b45ebb" style="display: block; margin-left: auto; margin-right: auto;">
-</div>
-
-###
-<div align="center" style="color: #00FF00;">
-  Vistantes:<br /><img src="https://profile-counter.glitch.me/marcosmoraisjr/count.svg?"  />
-</div>
-
-## Redes Sociais
-
-[![Linktree](https://img.shields.io/badge/Linktree-Visit-9cf)](https://linktr.ee/marcosmoraisjr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/marcosmoraisjr/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/marcosmoraisjr/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red)](mailto:mmstec@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mmstec)
+<div  align="center" style
 
 ###
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
