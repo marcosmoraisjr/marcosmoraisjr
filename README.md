@@ -84,7 +84,6 @@ Be a reference in software leadership and development.
    <img height="32" src="https://img.shields.io/badge/SQLite-0000FF?style=for-the-badge&logo=dataweave&logoColor=white" alt="SQLite logo" />
    <img height="32" src="https://img.shields.io/badge/MySQL-FF0000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" /> 
    <img height="32" src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" />
-   <img height="32" src="https://img.shields.io/badge/dBase-FF00FF?style=for-the-badge&logo=database&logoColor=white" alt="dBase logo" />
 </p>
 
 - #### Work Tools:
