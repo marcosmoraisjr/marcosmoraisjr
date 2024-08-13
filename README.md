@@ -86,7 +86,7 @@ Be a reference in software leadership and development.
    <img height="32" src="https://img.shields.io/badge/MongoDB-00FFFF?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" />
 </p>
 
-- #### Work Tools:
+- #### Other Work Tools:
  <P align="left">
     &nbsp;&nbsp;&nbsp;
     <img height="32" src="https://img.shields.io/badge/Visual_Studio-173983?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio logo" />
