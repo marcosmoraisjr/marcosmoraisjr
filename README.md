@@ -43,20 +43,23 @@ With years of experience in the technology sector, I began my career as a self-t
 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
 4. Knowledge and practices in software testing and agile development.
 
+
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
+    <!--<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />-->
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
+        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo"  />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />  
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  /> 
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="django logo"  />  
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
+    
  </p>
 
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
@@ -85,7 +88,7 @@ Be a reference in software leadership and development.
 5. Discipline: Maintain ethical and professional conduct.
 6. Collaboration: Value knowledge sharing.
 /-->
-
+<!--
 - #### Databases:
 <P align="left">
    &nbsp;&nbsp;&nbsp; 
@@ -109,7 +112,7 @@ Be a reference in software leadership and development.
 </p>
 
 ### 
-
+/-->
 ## GitHub Stats
 <div align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
