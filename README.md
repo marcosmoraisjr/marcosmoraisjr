@@ -12,7 +12,7 @@
 With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead <a href="https://restic36.cepedi.org.br/">Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project</a>, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
 
 
-| ID | 🎓 Academic Background:                                | 💼 Professional Experience                                                                                                   |
+| ID | 🎓 **Academic Background**                               | 💼 **Professional Experience**                                                                                             |
 |----|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | 01 | Master of Science in Computer Science (UEFS), 2022.     | Solid experience in development with .NET/Python.                                                                            |
 | 02 | Postgraduate Diploma in IT Management (UNEX), 2012.     |  Advanced knowledge in PL/SQL, database creation, and maintenance.                                                           |
@@ -57,7 +57,7 @@ With years of experience in the technology sector, I began my career as a self-t
 
 5. **Collaboration on Management Systems**: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).
 /-->
-| #### 🔧 Technical Skills:                                                                        |
+| 🔧 **Technical Skills**                                                                          |
 |--------------------------------------------------------------------------------------------------|
 | 1. Solid experience in development with C# and .NET Core, Python, PHP, HTML, CSS, JavaScript.    |
 | 2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.                           |
