@@ -17,7 +17,7 @@ With years of experience in the technology sector, I began my career as a self-t
 | 01 | Master of Science in Computer Science (UEFS), 2022.     | Solid experience in development with .NET/Python.                                                                            |
 | 02 | Postgraduate Diploma in IT Management (UNEX), 2012.     |  Advanced knowledge in PL/SQL, database creation, and maintenance.                                                           |
 | 03 | Bachelor of Information Systems (UNEX), 2010.           | Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.      |
-| 07 |                                                         | Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.                                  |
+| 04 |                                                         | Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.                                  |
 
 <!-- 
 #### 🎓 Academic Background:
