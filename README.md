@@ -43,23 +43,21 @@ With years of experience in the technology sector, I began my career as a self-t
 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
 4. Knowledge and practices in software testing and agile development.
 
-
+<!-- Badges -->
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
-    <!--<img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />-->
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt="dot-net logo"  />
-        <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="php logo"  />  
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5 logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3 logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript logo"  />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django Icon">
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo"  />
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo"  />
-    
+    <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
+    <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" />
+    <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
+    <img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
+    <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
+    <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
+    <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
+    <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" />
  </p>
 
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
