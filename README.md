@@ -19,6 +19,17 @@ With years of experience in the technology sector, I began my career as a self-t
 | 03 | Bachelor of Information Systems (UNEX), 2010.           | Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.      |
 | 04 |                                                         | Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.                                  |
 
+
+
+| ID  | 💡 **Featured Projects**                                                                                                                                                                                                                                                                                                                                                                     |
+|-----|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 01  | **Pathospotter Project**: During my stay at the High-Performance Computing Laboratory ([LaCAD](http://lacad.uefs.br/)), I participated in the research project called [Pathospotter](https://pathospotter.bahia.fiocruz.br/#/team). In this project, I applied computer vision techniques to assist in nephropathology diagnosis, specifically focusing on developing a semi-automatic method to estimate interstitial fibrosis from digital images of renal biopsy slides. Additionally, I was responsible for implementing the [Cytomine](https://cytomine.com/about) platform within the project, addressing a long-standing issue related to annotating areas of interest in large images. |
+| 02  | **API RESTful Client Development**: My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries such as OpenCV.                                                                                                                                                                                                 |
+| 03  | **Successful Implementation of the WinThor Management System**: I successfully implemented the WinThor management system from TOTVS.                                                                                                                                                                                                                                                     |
+| 04  | **Creation of a Corporate Portal**: I developed a Corporate Portal (Enterprise) that increased conversion by 30%.                                                                                                                                                                                                                                                                         |
+| 05  | **Collaboration on Management Systems**: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).                                                                                                                                          |
+
+
 <!-- 
 #### 🎓 Academic Background:
 
@@ -34,7 +45,7 @@ With years of experience in the technology sector, I began my career as a self-t
 5. Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.
 /-->
 
-#### 💡 Featured Projects:
+<!-- #### 💡 Featured Projects:
 
 1. **Pathospotter Project**: During my stay at the High-Performance Computing Laboratory ([LaCAD](http://lacad.uefs.br/)), I participated in the research project called [Pathospotter](https://pathospotter.bahia.fiocruz.br/#/team). In this project, I applied computer vision techniques to assist in nephropathology diagnosis, specifically focusing on developing a semi-automatic method to estimate interstitial fibrosis from digital images of renal biopsy slides. Additionally, I was responsible for implementing the [Cytomine](https://cytomine.com/about) platform within the project, addressing a long-standing issue related to annotating areas of interest in large images.
 
@@ -45,6 +56,7 @@ With years of experience in the technology sector, I began my career as a self-t
 4. **Creation of a Corporate Portal**: I developed a Corporate Portal (Enterprise) that increased conversion by 30%.
 
 5. **Collaboration on Management Systems**: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).
+/-->
 
 #### 🔧 Technical Skills:
 
