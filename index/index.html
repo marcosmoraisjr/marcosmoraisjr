@@ -1,1 +1,41 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #fff;
+            color: #000;
+            text-align: center;
+        }
+        .dark-mode {
+            background-color: #000;
+            color: #fff;
+        }
+        .image-light {
+            display: block;
+        }
+        .image-dark {
+            display: none;
+        }
+        .dark-mode .image-light {
+            display: none;
+        }
+        .dark-mode .image-dark {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <img src="00.gif" class="image-light" alt="Imagem Clara">
+    <img src="01.gif" class="image-dark" alt="Imagem Escura">
+    <script>
+        const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+        if (isDarkMode) {
+            document.body.classList.add('dark-mode');
+        }
+    </script>
+</body>
+</html>
