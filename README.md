@@ -51,7 +51,7 @@ With years of experience in the technology sector, I began my career as a self-t
     <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
     <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" />
     <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
-    <img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />
+    <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
     <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />-->
