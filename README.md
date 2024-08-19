@@ -6,7 +6,7 @@
 </a>
 
 ## 🟢 About me:
-🔬 Full Stack Developer | Technology and Innovation Specialist 🚀
+Technology and Innovation Specialist | 🔬 Full Stack Developer
 <!-- Badges -->
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
@@ -22,10 +22,10 @@
     <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
     <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
     <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" />
-    <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
+    <br />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
     <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
     <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />
+    <!--<img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />-->
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
 </p>
 
