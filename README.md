@@ -12,7 +12,7 @@
 With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead <a href="https://restic36.cepedi.org.br/">Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project</a>, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
 
 
-| ID | 🎓 Formação Acadêmica                                   | 💼 Experiência Profissional                                                                                                 |
+| ID | 🎓 Academic Background:                                | 💼 Professional Experience                                                                                                   |
 |----|---------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 | 01 | Master of Science in Computer Science (UEFS), 2022.     | Solid experience in development with .NET/Python.                                                                            |
 | 02 | Postgraduate Diploma in IT Management (UNEX), 2012.     |  Advanced knowledge in PL/SQL, database creation, and maintenance.                                                           |
