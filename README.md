@@ -80,7 +80,16 @@ With years of experience in the technology sector, I began my career as a self-t
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs logo"  />
  </p>
 
-#### 🪖 Mission
+| 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
+------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------
+| Deliver innovative, simple, efficient, and high-quality software solutions. | Be a reference in software leadership and development | 1. Innovation: Continuously seek new ideas.
+|                                                                             |                                                       | 2. Determination: Persist in the face of challenges.
+|                                                                             |                                                       | 3. Proactivity: Anticipate needs.
+|                                                                             |                                                       | 4. Simplicity: Value practical solutions.
+|                                                                             |                                                       | 5. Discipline: Maintain ethical and professional conduct.
+|                                                                             |                                                       | 3. Proactivity: Anticipate needs.
+
+<!-- #### 🪖 Mission
 
 Deliver innovative, simple, efficient, and high-quality software solutions.
 
@@ -96,6 +105,7 @@ Be a reference in software leadership and development.
 4. Simplicity: Value practical solutions.
 5. Discipline: Maintain ethical and professional conduct.
 6. Collaboration: Value knowledge sharing.
+/-->
 
 - #### Databases:
 <P align="left">
