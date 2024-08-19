@@ -5,9 +5,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Typing SVG" />
 </a>
 
-# About me:
-
-### 🔬 Full Stack Developer | Technology and Innovation Specialist 🚀
+## 🟢 About me:
+🔬 Full Stack Developer | Technology and Innovation Specialist 🚀
+<!-- Badges -->
+<P align="left">
+    &nbsp;&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
+    <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" />
+    <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
+    <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
+    <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />-->
+    <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
+    <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
+    <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
+    <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
+    <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" />
+    <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
+    <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
+    <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
+</p>
 
 With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead <a href="https://restic36.cepedi.org.br/">Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project</a>, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
 
@@ -42,30 +62,6 @@ With years of experience in the technology sector, I began my career as a self-t
 2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
 4. Knowledge and practices in software testing and agile development.
-
-<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
-
-<!-- Badges -->
-<P align="left">
-    &nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
-    <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" />
-    <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
-    <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
-    <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />-->
-    <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
-    <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
-    <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
-    <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
-    <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" />
-    <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
-    <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
-    <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
-</p>
  
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
 ------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------
