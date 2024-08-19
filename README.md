@@ -57,13 +57,23 @@ With years of experience in the technology sector, I began my career as a self-t
 
 5. **Collaboration on Management Systems**: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).
 /-->
+| #### 🔧 Technical Skills:                                                                        |
+|--------------------------------------------------------------------------------------------------|
+| 1. Solid experience in development with C# and .NET Core, Python, PHP, HTML, CSS, JavaScript.    |
+| 2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.                           |
+| 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.     |
+| 4. Knowledge and practices in software testing and agile development.                            |
 
+
+<!--
 #### 🔧 Technical Skills:
 
 1. Solid experience in development with C# and .NET Core, Python, PHP, HTML, CSS, JavaScript.
 2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
 4. Knowledge and practices in software testing and agile development.
+/-->
+
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="c logo"  />
