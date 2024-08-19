@@ -43,6 +43,8 @@ With years of experience in the technology sector, I began my career as a self-t
 3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
 4. Knowledge and practices in software testing and agile development.
 
+<img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
+
 <!-- Badges -->
 <P align="left">
     &nbsp;&nbsp;&nbsp; 
@@ -61,11 +63,12 @@ With years of experience in the technology sector, I began my career as a self-t
     <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
     <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
     <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
- </p>
- <p align="left">
     <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
     <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
     <img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
+    </a>
 </p>
  
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
