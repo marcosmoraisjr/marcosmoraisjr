@@ -110,24 +110,18 @@ Be a reference in software leadership and development.
 ### 
 /-->
 ## 💹 GitHub Stats
-<div align="center" style="margin-bottom:100px; border: 5px solid cyan;">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-###
-<div align="center" style="margin-bottom:100px; border: 5px solid cyan;">
-    <img width="100%" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<div align="center" style="margin-bottom:100px; border: 0px solid cyan;">
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcosmoraisjr&theme=radical&mode=weekly" />
+  <img width=45% align="center" src="https://github-readme-stats-three-vert.vercel.app/api/top-langs/?username=marcosmoraisjr&show_icons=true&theme=radical&layout=compact" />
+  <img width="100%" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
-Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
 <a href="https://www.linkedin.com/in/marcosmoraisjr/">
    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
 </a>
+<br />Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
