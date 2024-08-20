@@ -110,7 +110,7 @@ Be a reference in software leadership and development.
 ### 
 /-->
 ## 💹 GitHub Stats
-###
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcosmoraisjr&bg_color=000000&color=f5f6fa&line=00fffb&point=00fffb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center" style="border: 0px solid cyan;">
@@ -121,7 +121,8 @@ Be a reference in software leadership and development.
 <div align="center" style="border: 0px solid cyan;">
    <img width="100%" align="center" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 </div>
-###
+
+<hr />
 <a href="https://www.linkedin.com/in/marcosmoraisjr/">
    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
 </a>
