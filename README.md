@@ -7,7 +7,6 @@ Technology and Innovation Specialist | 🔬 Full Stack Developer
     &nbsp;&nbsp;&nbsp; 
     <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
     <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" />
-    <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
     <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
     <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
@@ -20,6 +19,7 @@ Technology and Innovation Specialist | 🔬 Full Stack Developer
     <br />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
     <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
     <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
+    <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />
     <!--<img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />-->
     <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
 </p>
