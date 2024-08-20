@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&background=0D1117&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Wellcome!" />
 </a>
 
-![teste](index/index.html)
+![teste](https://github.com/marcosmoraisjr/marcosmoraisjr/blob/main/index/index.html)
 
 ## 🟢 About me:
 Technology and Innovation Specialist | 🔬 Full Stack Developer
