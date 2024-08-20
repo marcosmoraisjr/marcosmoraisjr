@@ -1,7 +1,4 @@
 ![Bem vindo](https://github.com/user-attachments/assets/cd1c9279-10f5-4e10-b0e4-64d971a66f78)
-<a href="https://www.linkedin.com/in/marcosmoraisjr/">
-   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
-</a>
 
 ## 🟢 About me:
 Technology and Innovation Specialist | 🔬 Full Stack Developer
@@ -130,5 +127,7 @@ Be a reference in software leadership and development.
 
 ###
 Sinta-se à vontade para explorar meus repositórios e entrar em contato caso queira colaborar ou trocar ideias!
-
+<a href="https://www.linkedin.com/in/marcosmoraisjr/">
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
+</a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
