@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/marcosmoraisjr/">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&background=0D1117&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Wellcome!" />
-   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Wellcome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=FE5656&random=false&width=435&lines=I%C2%B4m+Marcos+Morais.;I%C2%B4m+Software+Developer!" alt="Welcome!" />
+
 </a>
 
 ## 🟢 About me:
