@@ -20,7 +20,7 @@ Technology and Innovation Specialist | 🔬 Full Stack Developer
     <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
      &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />  &nbsp;&nbsp;&nbsp; 
     <!--<img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />-->
-    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: MIT" />
+    <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License: Apache" />
 </p>
 
 With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead <a href="https://restic36.cepedi.org.br/">Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project</a>, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
