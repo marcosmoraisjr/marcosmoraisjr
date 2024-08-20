@@ -119,7 +119,7 @@ Be a reference in software leadership and development.
 </div>
 
 <div align="center" style="border: 0px solid cyan;">
-   <img width="100%" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
+   <img width="100%" align="center" src="https://raw.githubusercontent.com/marcosmoraisjr/marcosmoraisjr/output/snake.svg" alt="Snake animation" />
 </div>
 ###
 <a href="https://www.linkedin.com/in/marcosmoraisjr/">
