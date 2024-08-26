@@ -44,7 +44,7 @@ With years of experience in the technology sector, I began my career as a self-t
 
 2. `API RESTful Client Development`: My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries such as OpenCV.
 
-3. `Successful Implementation of the WinThor Management System`: I successfully implemented the WinThor management system from TOTVS.
+3. `Successful Implementation of the WinThor Management System`: I successfully implemented TOTVS' WinThor management system. I developed several integration tools with ERP in .NET WEB + Oracle language.
 
 4. `Creation of a Corporate Portal`: I developed a Corporate Portal (Enterprise) that increased conversion by 30%.
 
