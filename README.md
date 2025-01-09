@@ -2,28 +2,10 @@
 
 ## 🟢 About me:
 Technology and Innovation Specialist | 🔬 Full Stack Developer
-<!-- Badges -->
-<P align="left">
-    <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
-    <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" /> &nbsp;&nbsp;&nbsp; 
-    <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
-    <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />-->
-    <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
-    <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
-    <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
-    <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
-    <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" /> &nbsp;&nbsp;&nbsp; 
-    <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
-    <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
-    <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
-     &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />  &nbsp;&nbsp;&nbsp; 
-    <!--<img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />-->
-    <img src="https://img.shields.io/badge/license-Apache-green.svg" alt="License: Apache" />
-</p>
 
-With years of experience in the technology sector, I began my career as a self-taught developer. Since then, I've worked in various segments, such as healthcare, education, retail, and industry. I also taught at a university for nearly 10 years. Currently, I lead <a href="https://restic36.cepedi.org.br/">Track 7 - Backend Development in the Software Residency 36 - Bahia (Restic36) project</a>, where I help manage teams and drive high-impact initiatives. My commitment is to achieve exceptional results with my teams, whether in code or in the meeting room. 😊🚀
+Welcome!
+
+Meet Marcos Morais, a dynamic IT Project Manager with over 15 years of experience, specializing in agile management and software development using technologies such as C#, Python, PHP, and relational databases like Oracle and SQL Server. He holds a Bachelor's degree in Information Systems, a postgraduate degree in IT Management, and a Master's degree in Computer Science. Renowned for leading digital transformation projects and achieving operational efficiency improvements of up to 35%, Marcos combines solid academic training with extensive hands-on experience. He has contributed to technological innovations across the healthcare, retail, industrial, and education sectors
 
 ## 🎓 Academic Background:
 
@@ -51,7 +33,27 @@ With proven expertise in team leadership, innovation, and the development of sca
 
 ## 🔧 Technical Skills:
 Leadership • Communication • Problem-Solving • C# Developer • Python Developer
- 
+<!-- Badges -->
+<P align="left">
+    <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
+    <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" /> &nbsp;&nbsp;&nbsp; 
+    <!--<img src="https://img.shields.io/badge/PHP-%3E=8.2-blue.svg" alt="PHP Version" />-->
+    <!--<img src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?logo=javascript&logoColor=black" alt="JavaScript" />-->
+    <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
+    <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
+    <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
+    <img src="https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white" alt="React Version" />
+    <img src="https://img.shields.io/badge/Next.js-12.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" /> &nbsp;&nbsp;&nbsp; 
+    <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
+    <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
+    <img src="https://img.shields.io/badge/NoSQL-database-yellowgreen.svg" alt="NoSQL" />
+     &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/OpenCV-4.x-yellow.svg" alt="OpenCV Version" />  &nbsp;&nbsp;&nbsp; 
+    <!--<img src="https://img.shields.io/badge/MongoDB-5.x-green.svg?logo=mongodb" alt="MongoDB Version" />-->
+    <img src="https://img.shields.io/badge/license-Apache-green.svg" alt="License: Apache" />
+</p>
+
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
 ------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------
 | Deliver innovative, simple, efficient, and high-quality software solutions. | Be a reference in software leadership and development | 1. Innovation: Continuously seek new ideas.
