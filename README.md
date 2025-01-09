@@ -38,24 +38,19 @@ With years of experience in the technology sector, I began my career as a self-t
 3. Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.
 5. Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.
 
-## 💡 Featured Projects:
+## 💡 Career Highlights:
 
-1. `Pathospotter Project`: During my stay at the High-Performance Computing Laboratory ([LaCAD](http://lacad.uefs.br/)), I participated in the research project called [Pathospotter](https://pathospotter.bahia.fiocruz.br/#/team). In this project, I applied computer vision techniques to assist in nephropathology diagnosis, specifically focusing on developing a semi-automatic method to estimate interstitial fibrosis from digital images of renal biopsy slides. Additionally, I was responsible for implementing the [Cytomine](https://cytomine.com/about) platform within the project, addressing a long-standing issue related to annotating areas of interest in large images.
+1. 🚀 Accelerated processes at institutional events by over 50% with the development of the [CheckAê](https://check-ae.cpds.uesb.br/)  system, optimizing check-in and check-out. 
+2. 🔍 Improved diagnostic accuracy by up to 35% using automated computer vision tools in research initiatives at the High-Performance Computing Laboratory ([LaCAD](http://lacad.uefs.br/)). 
+3. 🎮 Developed Gênios G4H, a gamified solution that supports the recovery of stroke patients through gamification. 
+4. ⚡ Achieved a record ERP WinThor implementation, completing a six-month planned project in just 45 days, increasing internal process efficiency by up to 30%. 
+5. 🩺 Led the implementation of the Cytomine medical imaging platform for the [Pathospotter](https://pathospotter.bahia.fiocruz.br/#/team) project in partnership with Fiocruz. 
+6. 🏆 Trained nearly 1,000 IT professionals through the ResTIC36 software residency program (CEPEDI/SOFTTEX/MCTI).
 
-2. `API RESTful Client Development`: My contribution involved developing APIs and RESTful clients using the Python language and various image processing libraries such as OpenCV.
-
-3. `Successful Implementation of the WinThor Management System`: I successfully implemented TOTVS' WinThor management system. I developed several integration tools with ERP in .NET WEB + Oracle language.
-
-4. `Creation of a Corporate Portal`: I developed a Corporate Portal (Enterprise) that increased conversion by 30%.
-
-5. `Collaboration on Management Systems`: I also collaborated on the development of the management system for clinical analysis laboratories (GENESIS) and the design and implementation of a Commercial Management System (FUSION WEB).
+With proven expertise in team leadership, innovation, and the development of scalable systems, Marcos is ready to drive the success of your next transformative project.
 
 ## 🔧 Technical Skills:
-
-1. Solid experience in development with C# and .NET Core, Python, PHP, HTML, CSS, JavaScript.
-2. Experience in databases: Oracle PL/SQL, SQL Server, MySQL, MongoDB.
-3. Advanced code versioning practices using Git and familiarity with Azure DevOps practices.
-4. Knowledge and practices in software testing and agile development.
+Leadership • Communication • Problem-Solving • C# Developer • Python Developer
  
 | 🪖 Mission                                                                  | 👁️ Vision                                            |💎 Values
 ------------------------------------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------
