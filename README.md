@@ -31,7 +31,7 @@ Meet Marcos Morais, a dynamic IT Project Manager with over 15 years of experienc
 
 With proven expertise in team leadership, innovation, and the development of scalable systems, Marcos is ready to drive the success of your next transformative project.
 
-## 🔧 Technical Skills:
+## 🔧 Key Skills:
 Leadership • Communication • Problem-Solving • C# Developer • Python Developer
 <!-- Badges -->
 <P align="left">
