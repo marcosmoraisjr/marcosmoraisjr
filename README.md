@@ -1,7 +1,7 @@
 ![Bem vindo](https://github.com/user-attachments/assets/cd1c9279-10f5-4e10-b0e4-64d971a66f78)
 
 ## 🟢 About me:
-Technology and Innovation Specialist | 🔬 Full Stack Developer
+🔬 Technology and Innovation Specialist | Full Stack Developer
 
 Welcome!
 
