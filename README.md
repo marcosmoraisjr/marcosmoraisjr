@@ -6,7 +6,7 @@ Technology and Innovation Specialist | 🔬 Full Stack Developer
 Welcome!
 
 Meet Marcos Morais, a dynamic IT Project Manager with over 15 years of experience, specializing in agile management and software development using technologies such as C#, Python, PHP, and relational databases like Oracle and SQL Server. He holds a Bachelor's degree in Information Systems, a postgraduate degree in IT Management, and a Master's degree in Computer Science. Renowned for leading digital transformation projects and achieving operational efficiency improvements of up to 35%, Marcos combines solid academic training with extensive hands-on experience. He has contributed to technological innovations across the healthcare, retail, industrial, and education sectors
-
+<!--
 ## 🎓 Academic Background:
 
 - Master of Science in Computer Science (UEFS), 2022.
@@ -19,7 +19,7 @@ Meet Marcos Morais, a dynamic IT Project Manager with over 15 years of experienc
 2. Advanced knowledge in PL/SQL, database creation, and maintenance.
 3. Teamwork skills, good communication with proven experience in teaching and process improvement and automation projects.
 5. Proficient in agile methodologies like Scrum, promoting efficiency and continuous delivery.
-
+-->
 ## 💡 Career Highlights:
 
 1. 🚀 Accelerated processes at institutional events by over 50% with the development of the [CheckAê](https://check-ae.cpds.uesb.br/)  system, optimizing check-in and check-out. 
