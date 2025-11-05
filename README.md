@@ -18,13 +18,14 @@ I have successfully managed full software lifecycles — from **architecture, De
 
 ## 💡 Career Highlights
 
-1. 🚀 **CheckAê System (UESB/CEPEDI)** — Optimized event logistics by 50% through automated check-in/out and QR integration.  
-2. 🔍 **PathoSpotter (FIOCRUZ/UEFS)** — Improved diagnostic accuracy by 35% using **Python/OpenCV** for kidney biopsy analysis.  
-3. 🎮 **Gênios G4H** — Developed a gamified system supporting neurorehabilitation of stroke patients.  
-4. ⚡ **ERP WinThor Deployment (Private Sector)** — Delivered a 6-month implementation in **45 days**, raising process efficiency by 30%.  
-5. 🧠 **Campo Inteligente (AgroTech)** — Created the **iAGRO AI Agent**, integrating APIs (WhatsApp, OpenWeather, Preço da Hora) with real-time agricultural analytics.  
-6. 🌎 **WeaveTrip / JustTravel** — Led a global tourism-tech integration using **Next.js + GraphQL + Node.js** with SportsEvents365 API.  
-7. 🏆 **ResTIC36 Leadership (CEPEDI/SOFTEX/MCTI)** — Trained 1,000+ tech professionals; managed 40 real projects across 9 cities; teams achieved **Top-5 and 3rd place at the Bahia Innovate Summit 2025**.
+1. 🏆 **ResTIC36 Leadership (CEPEDI/SOFTEX/MCTI)** — Trained 1,000+ tech professionals and managed 40 real-world projects across 9 cities. Teams achieved Top-5 and 3rd place at the Bahia Innovate Summit 2025, with impactful outcomes in AI, tourism, and agritech innovation.
+2. 🌾 **Campo Inteligente (AgroTech)** — Created the **iAGRO AI Agent**, integrating APIs (WhatsApp, OpenWeather, Preço da Hora) for real-time agricultural analytics and decision support. Recognized among the **Top-5 innovations** at the BIS 2025.
+3. 🌎 **WeaveTrip / JustTravel Integration** — Led a global tourism-tech solution connecting events, tickets, and accommodations via **Next.js + GraphQL + Node.js**, integrating the SportsEvents365 API and enhancing user experience through UX-driven design.
+4. ⚡ **ERP WinThor Deployment (Private Sector)** — Delivered a full ERP implementation originally planned for six months in just **45 days**, achieving a **30% efficiency increase** and full compliance automation.
+5. 🚀 **CheckAê System (UESB/CEPEDI)** — Optimized large-scale event logistics by over **50%** with an automated check-in/out system integrated via QR codes and web dashboards.
+6. 🔍 **PathoSpotter (FIOCRUZ/UEFS)** — Improved diagnostic accuracy by **35%** through semi-automated tissue analysis using **Python + OpenCV**, supporting renal pathology research.
+7. 🎮 **Gênios G4H** — Designed and developed a gamified rehabilitation tool to support post-stroke recovery, applying serious-game methodologies for cognitive engagement.
+
 
 ---
 
