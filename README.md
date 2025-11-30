@@ -1,6 +1,6 @@
 ![Welcome Banner](https://github.com/user-attachments/assets/cd1c9279-10f5-4e10-b0e4-64d971a66f78)
 
-# MARCOS MORAIS DE SOUSA
+# **MARCOS MORAIS** DE SOUSA
 ### **Senior Software Engineer • Project Manager • IA • .NET • Python**
 
 [LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) | [GitHub](https://github.com/marcosmoraisjr)
