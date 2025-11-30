@@ -1,72 +1,80 @@
 ![Welcome Banner](https://github.com/user-attachments/assets/cd1c9279-10f5-4e10-b0e4-64d971a66f78)
 
-<h1 align="center">👋 Hi, I'm Marcos Morais</h1>
-<h3 align="center">🚀 Senior Software Engineer & IT Project Manager | Full Stack Developer (.NET • Python • Django • Node • Next.js)</h3>
+# MARCOS MORAIS DE SOUSA
+### **Senior Software Engineer • Project Manager • IA • .NET • Python**
+
+📧 mmstec@gmail.com | [LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) | [GitHub](https://github.com/marcosmoraisjr)
 
 ---
 
-## 🟢 About Me
+## Resumo Profissional
+Engenheiro de Software Sênior e Gerente de Projetos de TI com **25+ anos** de experiência em **Back-End (Python, .NET/C#), integrações corporativas, modelagem de dados (Oracle/SQL Server) e liderança técnica**. **Mestre em Ciência da Computação**, com atuação aplicada em **IA e Visão Computacional**, além de experiência prática em DevOps, CI/CD, automação e sistemas escaláveis. Foco em **modernização de plataformas, alta performance, observabilidade, resiliência e entregas de impacto** para os setores de **saúde digital, fintech, agronegócio, ERP (TOTVS WinThor), e-commerces e soluções offline-first**.
 
-I’m a **Technology and Innovation Specialist** with over **15 years of experience** leading digital transformation projects across **healthcare, retail, industry, agribusiness, and education**.  
-My background blends **academic excellence** (Master’s in Computer Science, Postgraduate in IT Management, Bachelor’s in Information Systems) with **hands-on expertise** in **software engineering, agile project leadership**, and **team mentoring**.
+## Competências Técnicas
+* **Linguagens:** C#, Python, JavaScript
+* **Frameworks:** ASP.NET Core, Django REST, Angular, EF Core
+* **Arquitetura:** APIs REST, Integrações, Segurança, CI/CD, Containers
+* **Bancos:** SQL Server, PostgreSQL, Oracle
+* **Ferramentas:** Docker, GitHub/GitLab, Azure DevOps
+* **Áreas:** Fintech, Saúde Digital, Agronegócio, ERP
 
-I have successfully managed full software lifecycles — from **architecture, DevOps pipelines, and data modeling** to **front-end integration and AI-assisted automation** — achieving performance improvements of up to **35%** and delivery acceleration by **50%**.
-
-💼 Currently, I’m focused on designing **scalable, data-driven, and secure software ecosystems**, integrating **AI agents, analytics, and DevOps automation** into real-world business solutions.
-
----
-
-## 💡 Career Highlights
-
-| 🚀 Project / Initiative | 🧩 Description & Impact |
-|--------------------------|-------------------------|
-| 🏆 **ResTIC36 Leadership (CEPEDI / SOFTEX / MCTI)** | Trained **1,000+ tech professionals** and managed **40 real-world projects** across 9 cities. Teams achieved **Top-5 and 3rd place** at the *Bahia Innovate Summit 2025*, driving innovation in **AI, tourism, and agritech**. |
-| 🌾 **Campo Inteligente (AgroTech)** | Created the **iAGRO AI Agent**, integrating APIs (*WhatsApp, OpenWeather, Preço da Hora*) for **real-time agricultural analytics** and smart decision-making. Recognized among the **Top-5 innovations** at *BIS 2025*. |
-| 🌎 **WeaveTrip / JustTravel Integration** | Led a **global tourism-tech platform** connecting events, tickets, and accommodations via **Next.js + GraphQL + Node.js**, integrating **SportsEvents365 API** and enhancing user experience through **UX-driven design**. |
-| ⚡ **ERP WinThor Deployment (Private Sector)** | Delivered an **end-to-end ERP implementation** planned for 6 months in just **45 days**, achieving a **30% efficiency increase** and full **fiscal compliance automation**. |
-| 🚀 **CheckAê System (UESB / CEPEDI)** | Optimized **large-scale event logistics by 50%** with an automated **QR-based check-in/out system** and integrated dashboards for institutional event management. |
-| 🔍 **PathoSpotter (FIOCRUZ / UEFS)** | Enhanced diagnostic accuracy by **35%** via **Python + OpenCV** for semi-automated renal biopsy analysis — supporting research in **digital pathology and computer vision**. |
-| 🎮 **Gênios G4H** | Designed and developed a **gamified rehabilitation tool** to support **stroke patient recovery**, applying **serious game mechanics** for cognitive engagement and neurorehabilitation. |
-
-
-
----
-
-## 🔧 Tech Stack & Tools
-
-| Category | Technologies |
-|-----------|---------------|
-| **Languages** | C#, Python, JavaScript, TypeScript, SQL |
-| **Frameworks** | .NET 8, Django, Node.js, Next.js, Angular, React |
-| **Databases** | PostgreSQL, Oracle, SQL Server, Redis |
-| **Infra & DevOps** | Docker, GitHub Actions, Nginx, Azure DevOps, CI/CD |
-| **Architecture** | DDD, Clean Architecture, REST/GraphQL APIs, Microservices |
-| **Others** | JWT, Swagger, Jazzmin, OpenCV, RAG/AI Assistants |
-
-<p align="left">
-  <img src="https://img.shields.io/badge/.NET-8.0-blueviolet.svg" alt=".NET Version" />
-  <img src="https://img.shields.io/badge/Python-3.12-blue.svg" alt="Python Version" /> 
-  <img src="https://img.shields.io/badge/Django-4.0-green.svg" alt="Django Version" />
-  <img src="https://img.shields.io/badge/Node.js-16.x-green.svg" alt="Node.js Version" />
-  <img src="https://img.shields.io/badge/Next.js-13.x-black.svg?logo=next.js&logoColor=white" alt="Next.js Version" /> 
-  <img src="https://img.shields.io/badge/Angular-13-red.svg" alt="Angular Version" />
-  <img src="https://img.shields.io/badge/Oracle-19c-red.svg?logo=oracle" alt="Oracle Version" />
-  <img src="https://img.shields.io/badge/SQL%20Server-2019-blue.svg?logo=microsoft-sql-server" alt="SQL Server Version" />
-  <img src="https://img.shields.io/badge/Docker-containerization-blue.svg" alt="Docker" />
-  <img src="https://img.shields.io/badge/Azure-DevOps-0078D7.svg?logo=azuredevops&logoColor=white" alt="Azure DevOps" />
-</p>
+## Projetos de Impacto
+* **iAGRO — IA no Agronegócio**
+    * [campointeligente.agr.br](https://www.campointeligente.agr.br/faq/)
+    * Python, ETL, APIs climáticas, ML/AI, WhatsApp API.
+* **Check-Aê — Controle de Presença**
+    * [youtu.be/F9zmcKV\_7qQ](https://youtu.be/F9zmcKV_7qQ)
+    * JavaScript, API REST, QR Code, criptografia.
+* **MyInvest — Plataforma Fintech**
+    * [youtu.be/dWD19dZna6k](https://youtu.be/dWD19dZna6k)
+    * ASP.NET Core, Angular, PostgreSQL, YahooFinance.
+* **Pathospotter (UEFS/Fiocruz)**
+    * [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br)
+    * Python, OpenCV, Cytomine, Docker.
+* **Porto Seguro da Sorte — Rifas Online**
+    * [PSS (GitHub)](https://github.com/marcosmoraisjr)
+    * Django REST, PostgreSQL, WhatsApp API.
 
 ---
 
-## 🧭 Professional Philosophy
+## Experiência Profissional
 
-| 🪖 Mission                                                                  | 👁️ Vision                                            | 💎 Values |
-|------------------------------------------------------------------------------|-------------------------------------------------------|------------------------------------------------|
-| Deliver innovative, efficient, and scalable software solutions.              | To be a reference in software leadership and DevOps.  | 1️⃣ Innovation — Seek new, impactful ideas. |
-|                                                                              |                                                       | 2️⃣ Determination — Persist through challenges. |
-|                                                                              |                                                       | 3️⃣ Proactivity — Anticipate needs. |
-|                                                                              |                                                       | 4️⃣ Simplicity — Value practical solutions. |
-|                                                                              |                                                       | 5️⃣ Discipline — Act with ethics and excellence. |
+**Gerente de Projetos / Tech Lead — CEPEDI (ResTIC36)** *2024 – Atual*
+* Liderança de startups em aceleração com equipes distribuídas, aumentando 32% a eficiência com Scrum, DevOps e CI/CD.
+* Capacitação de 1000+ alunos em programação, IA e robótica em sete cidades polo da Bahia.
+
+**Gerente de TI / Engenheiro de Software — Grupo Valdir Barreto & Fibrasol** *2005 – Atual*
+* Modernização de sistemas (.NET, Angular, Python).
+* Redução da implantação WinThor de 1140h para 360h.
+
+**Engenheiro de IA / Pesquisador — (UEFS/Fiocruz)** *2019 – 2021*
+* Modelos de visão computacional aplicados à nefropatologia.
+* Precisão diagnóstica de 85% com equipe multidisciplinar.
+
+**Professor Universitário — (Instituições Públicas e Privadas)** *2011 – 2023*
+* Ministrou disciplinas de Estágio, TCC, Programação, IA, Robótica e Engenharia de Software em graduação e pós-graduação.
+
+---
+
+## Formação Acadêmica
+* **Mestre em Ciência da Computação** — UEFS
+* **Pós-graduado em Gestão de TI** — UniFTC
+* **Bacharel em Sistemas de Informação** — UniFTC
+
+## Certificações
+* Docência & Tutoria (Back-End Python) — 720h
+* Python & Data Science — 187h
+* Desenvolvimento Back-End (.NET, Angular) — 155h
+* Gestão de Projetos & Ágeis — 65h
+* IA & Machine Learning — 61h
+
+## Idiomas
+* Português (Nativo)
+* Inglês (Profissional)
+* Espanhol (Profissional)
+
+## Disponibilidade
+CLT, PJ ou internacional — Início imediato
 
 ---
 
