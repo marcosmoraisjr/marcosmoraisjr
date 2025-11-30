@@ -3,7 +3,7 @@
 # MARCOS MORAIS DE SOUSA
 ### **Senior Software Engineer • Project Manager • IA • .NET • Python**
 
-📧 mmstec@gmail.com | [LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) | [GitHub](https://github.com/marcosmoraisjr)
+[LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) | [GitHub](https://github.com/marcosmoraisjr)
 
 ---
 
