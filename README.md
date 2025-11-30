@@ -8,7 +8,7 @@
 ---
 
 ## Resumo Profissional
-Engenheiro de Software Sênior e Gerente de Projetos de TI com **25+ anos** de experiência em **Back-End (Python, .NET/C#), integrações corporativas, modelagem de dados (Oracle/SQL Server) e liderança técnica**. **Mestre em Ciência da Computação**, com atuação aplicada em **IA e Visão Computacional**, além de experiência prática em DevOps, CI/CD, automação e sistemas escaláveis. Foco em **modernização de plataformas, alta performance, observabilidade, resiliência e entregas de impacto** para os setores de **saúde digital, fintech, agronegócio, ERP (TOTVS WinThor), e-commerces e soluções offline-first**.
+Professor e Engenheiro de Software Sênior com 25+ anos de experiência multidisciplinar em desenvolvimento de sistemas e gestão de equipes/projetos de TI. Mestre em Ciência da Computação e especialista em arquiteturas back-end escaláveis (Python, .NET/C#, integrações corporativas e modelagem de dados). Atuação aplicada em **IA, Visão Computacional, DevOps (CI/CD) e observabilidade**, com foco em **modernização de plataformas, alta performance e resiliência**. Atuação comprovada nos setores de Saúde Digital, Fintech, Indústria, Agronegócio, ERP (TOTVS WinThor), e-commerces e soluções offline-first.
 
 ## Competências Técnicas
 * **Linguagens:** C#, Python, JavaScript
