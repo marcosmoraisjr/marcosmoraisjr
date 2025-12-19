@@ -21,20 +21,19 @@ Professor e Engenheiro de Software Sênior com 25+ anos de experiência multidis
 ## Projetos de Impacto
 * **iAGRO — IA no Agronegócio**
     * [campointeligente.agr.br](https://www.campointeligente.agr.br/faq/)
-    * Python, ETL, APIs climáticas, ML/AI, WhatsApp API.
-* **Check-Aê — Controle de Presença**
-    * [youtu.be/F9zmcKV\_7qQ](https://youtu.be/F9zmcKV_7qQ)
-    * JavaScript, API REST, QR Code, criptografia.
+    * Next.js, Python/Django API RESTfull, ETL, APIs Climáticas, ML/AI, WhatsApp API, Docker, PostgreSQL.
 * **MyInvest — Plataforma Fintech**
     * [youtu.be/dWD19dZna6k](https://youtu.be/dWD19dZna6k)
-    * ASP.NET Core, Angular, PostgreSQL, YahooFinance.
+    * ASP.NET Core/Angular, API YahooFinance, Docker, PostgreSQL.
 * **Pathospotter (UEFS/Fiocruz)**
     * [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br)
-    * Python, OpenCV, Cytomine, Docker.
+    * Python, OpenCV, Cytomine Core API, Docker, PostgreSQL.
 * **Porto Seguro da Sorte — Rifas Online**
     * [PSS (GitHub)](https://github.com/marcosmoraisjr)
-    * Django REST, PostgreSQL, WhatsApp API.
-
+    * Next.js, Python Django API RESTfull, Docker, PostgreSQL.
+* **Check-Aê — Controle de Presença**
+    * [youtu.be/F9zmcKV\_7qQ](https://youtu.be/F9zmcKV_7qQ)
+    * PHP/Laravel, API RESTfull, Docker, PostgreSQL.
 ---
 
 ## Experiência Profissional
