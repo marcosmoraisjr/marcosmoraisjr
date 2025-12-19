@@ -24,7 +24,7 @@ Professor e Engenheiro de Software Sênior com 25+ anos de experiência multidis
     * Next.js, Python/Django API RESTfull, ETL, APIs Climáticas, ML/AI, WhatsApp API, Docker, PostgreSQL.
 * **MyInvest — Plataforma Fintech**
     * [youtu.be/dWD19dZna6k](https://youtu.be/dWD19dZna6k)
-    * ASP.NET Core/Angular, API YahooFinance, Docker, PostgreSQL.
+    * C#/ASP.NET Core/Angular, API YahooFinance, Docker, PostgreSQL.
 * **Pathospotter (UEFS/Fiocruz)**
     * [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br)
     * Python, OpenCV, Cytomine Core API, Docker, PostgreSQL.
