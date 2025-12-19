@@ -39,7 +39,7 @@ Professor e Engenheiro de Software Sênior com 25+ anos de experiência multidis
 
 ## Experiência Profissional
 
-**Gerente de Projetos / Tech Lead — CEPEDI (ResTIC36)** *2024 – Atual*
+**Gerente de Projetos / Tech Lead — CEPEDI (ResTIC36)** *2024 – 2025*
 * Liderança de startups em aceleração com equipes distribuídas, aumentando 32% a eficiência com Scrum, DevOps e CI/CD.
 * Capacitação de 1000+ alunos em programação, IA e robótica em sete cidades polo da Bahia.
 
