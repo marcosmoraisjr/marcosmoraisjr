@@ -64,8 +64,9 @@ Professor e Engenheiro de Software Sênior com 25+ anos de experiência multidis
 * Docência & Tutoria (Back-End Python) — 720h
 * Python & Data Science — 187h
 * Desenvolvimento Back-End (.NET, Angular) — 155h
-* Gestão de Projetos & Ágeis — 65h
+* Gestão de Projetos Ágeis — 65h
 * IA & Machine Learning — 61h
+* SAIBA MAIS.
 
 ## Idiomas
 * Português (Nativo)
