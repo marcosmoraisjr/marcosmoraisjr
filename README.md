@@ -136,26 +136,6 @@ Python • OpenCV • Cytomine • PostgreSQL • Docker • Computer Vision
 
 ---
 
-## Idiomas
-
-| Idioma         | Nível        |
-| -------------- | ------------ |
-| 🇧🇷 Português | Nativo       |
-| 🇺🇸 Inglês    | Profissional |
-| 🇪🇸 Espanhol  | Profissional |
-
----
-
-## Contato
-
-💼 LinkedIn: https://www.linkedin.com/in/marcosmoraisjr
-
-💻 GitHub: https://github.com/marcosmoraisjr
-
-📧 [marcosmoraisjr@gmail.com](mailto:marcosmoraisjr@gmail.com)
-
----
-
 > **Tecnologia só cumpre seu papel quando resolve problemas reais, simplifica o cotidiano e gera valor sustentável para pessoas e organizações.**
 
 ---
