@@ -6,7 +6,7 @@
 
 **Honra. Meu princípio. Minha identidade.**
 
-[LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) • [GitHub](https://github.com/marcosmoraisjr)
+[LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) • [GitHub](https://github.com/marcosmoraisjr) • [AUTVS](https://autvs.com) • [ServLet](https://servlet.com.br)
 
 ---
 
@@ -16,6 +16,8 @@ Há mais de **25 anos**, transformo desafios complexos em resultados mensurávei
 
 Atuo na convergência entre **Gestão de Produtos, Engenharia de Software, Arquitetura de Soluções, ERP e Inteligência Artificial**, liderando iniciativas de transformação digital nos setores de **Saúde, Varejo, Indústria, Educação, Agronegócio e Fintech**.
 
+Hoje dedico a maior parte do meu tempo a dois produtos que levam essa visão ao mercado: a **AUTVS**, analytics e IA para empresas que usam TOTVS WinThor, e o **ServLet**, PDV e sistema de gestão com NFC-e.
+
 Sou **Mestre em Ciência da Computação** e mantenho uma atuação **hands-on**, conectando estratégia, produto, arquitetura e execução para acelerar entregas, reduzir riscos e gerar valor sustentável para organizações.
 
 ---
@@ -24,6 +26,7 @@ Sou **Mestre em Ciência da Computação** e mantenho uma atuação **hands-on**
 
 | Iniciativa                     | Resultado                                                 |
 | ------------------------------ | --------------------------------------------------------- |
+| 🧠 AUTVS                       | Analytics e IA em linguagem natural sobre o WinThor, **somente leitura** |
 | 🚀 ERP SERVLET                 | Antecipação da entrega do produto em **7 meses**          |
 | 📊 ERP TOTVS WinThor           | Redução de **75%** no tempo de implantação                |
 | 🎓 ResTIC36 / CEPEDI           | Formação de **1.000+ profissionais** em tecnologia        |
@@ -53,7 +56,8 @@ Sou **Mestre em Ciência da Computação** e mantenho uma atuação **hands-on**
 | Frontend       | Angular • Next.js • TypeScript         |
 | Banco de Dados | PostgreSQL • Oracle • SQL Server       |
 | DevOps         | Docker • GitHub Actions • Azure DevOps |
-| ERP            | TOTVS WinThor • ERP SERVLET            |
+| ERP            | TOTVS WinThor • ERP SERVLET • NFC-e/NF-e |
+| IA             | IA Generativa • Linguagem Natural sobre dados |
 
 ---
 
@@ -65,7 +69,37 @@ Sou **Mestre em Ciência da Computação** e mantenho uma atuação **hands-on**
 
 ---
 
-## Projetos em Destaque
+## Produtos em Destaque
+
+### 🧠 AUTVS
+
+**Analytics e Inteligência Avançada para empresas que usam TOTVS WinThor**
+
+🔗 https://autvs.com
+
+Conecta ao WinThor em **modo somente leitura** e reúne vendas, margem, estoque, financeiro, clientes e fiscal em painéis inteligentes. O **iAutvs** responde em linguagem natural, sem relatório novo e sem escrever SQL, e aponta queda de margem, atraso de clientes e ruptura de estoque sem esperar o fechamento do mês.
+
+* **Gestão Fiscal:** consulta a SEFAZ com o certificado digital da empresa, mostra as notas emitidas contra o CNPJ e compara com o que foi lançado no WinThor.
+* **Segurança:** mesmo login do WinThor e acesso por filial e RCA.
+* **Planos:** Essencial, Fiscal, Inteligente e Completo.
+
+.NET • C# • PostgreSQL • Oracle (WinThor) • Angular • Docker • IA Generativa
+
+---
+
+### 🛒 ServLet
+
+**PDV e sistema de gestão com NFC-e**
+
+🔗 https://servlet.com.br
+
+O PDV e a gestão da empresa num sistema só: nota rejeitada, estoque no mínimo e diferença de caixa aparecem na hora, antes de virar prejuízo. Inclui controle de fiado, gestão multiloja e uma IA que conhece o negócio. Todos os módulos em todos os planos (Bronze, Prata, Ouro, Diamante e Black).
+
+PDV • NFC-e • Gestão Multiloja • Estoque • Financeiro • IA
+
+---
+
+## Outros Projetos
 
 ### 🌱 iAGRO
 
@@ -109,7 +143,8 @@ Python • OpenCV • Cytomine • PostgreSQL • Docker • Computer Vision
 
 | Período      | Cargo                                       | Organização                      |
 | ------------ | ------------------------------------------- | -------------------------------- |
-| 2026 – Atual | Product Owner / Project Manager / Tech Lead | ERP SERVLET                      |
+| 2026 – Atual | Product Owner / Project Manager / Tech Lead | ERP SERVLET ([servlet.com.br](https://servlet.com.br)) |
+| 2026 – Atual | Criação e liderança do produto              | AUTVS ([autvs.com](https://autvs.com)) |
 | 2024 – 2025  | Gerente de Projetos / Tech Lead             | CEPEDI (ResTIC36)                |
 | 2005 – Atual | Gerente de TI / Engenheiro de Software      | Grupo Valdir Barreto & Fibrasol  |
 | 2019 – 2021  | Pesquisador em IA                           | UEFS / Fiocruz                   |
