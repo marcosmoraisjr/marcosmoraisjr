@@ -31,7 +31,8 @@ Hoje lidero dois produtos em paralelo: o **ServLet**, ERP e PDV com NFC-e, e a *
 | 🎓 **ResTIC36 / CEPEDI** | **1.000+ residentes** formados em 9 polos da Bahia e **1.920 horas** de execução e supervisão |
 | 🏆 **Bahia Innovate Summit 2025** | **3º lugar** entre 40 projetos. Liderei 2 equipes de 7 desenvolvedores, e o time foi absorvido por empresa parceira |
 | 🧬 **PathoSpotter (UEFS/Fiocruz)** | **100% de reprodutibilidade** na análise por IA, contra variabilidade humana de até 30%, com **95% de precisão diagnóstica** |
-| ©️ **Gerador .NET** | Gerador de código C# e SQL criado por mim em torno de 2010, **registrado no INPI** |
+| ©️ **Propriedade intelectual** | **4 softwares registrados no INPI**: iAGRO, Check-Aê, Minhas Escolhas Alimentares e Gerador .NET (ferramenta de desenvolvimento ágil em C#/.NET que criei por volta de 2010 e registrei em 2026) |
+| 📚 **Produção e docência** | Organizador de livro e autor de capítulo (2025), **14 TCCs orientados**, professor homenageado em 2014 e 9 anos de docência superior |
 
 ---
 
@@ -80,18 +81,20 @@ Agente de IA para o agronegócio (clima, preços e planejamento de cultivo), int
 | jan. – out. 2025 | Coordenador de Desenvolvimento e Gerente de Projetos (Fase 2) | CEPEDI, ResTIC36 |
 | jul. 2024 – jan. 2025 | Pesquisador Orientador+ e tutor líder estadual em Back-End (Fase 1) | CEPEDI, ResTIC36 |
 | 2021 – 2022 | Pesquisador Científico em IA e Visão Computacional | UEFS / Fiocruz |
-| 2012 – 2021 | Professor de Ensino Superior | UniFTC |
-| 2015 – Atual | Coordenador e Gerente de Projetos de TI | Barreto Material de Construção |
-| 2003 – Atual | Coordenador e Gerente de Projetos de TI | Fibrasol |
-| 1995 – 2015 | Operador de sistemas, desenvolvedor sênior e analista de sistemas sênior | Grupo Valdir Barreto |
+| 2012 – 2021 | Professor de Ensino Superior (Engenharia de Software, Banco de Dados, Algoritmos, TCC) | UniFTC |
+| 2015 – Atual | Gerente de Projetos de TI e Diretor de TI | Barreto Material de Construção |
+| 2010 – Atual | Gerente de Projetos de TI (antes: desenvolvedor sênior e analista de sistemas, desde 2003) | Fibrasol |
+| 1995 – 2015 | Operador financeiro, operador de computador, desenvolvedor e analista de sistemas sênior | Barreto Material de Construção |
+| 2002 – 2011 | Proprietário e gestor | MMSTEC Soluções em Informática |
 
 No Grupo Valdir Barreto, a governança de TI das 5 empresas fica sob uma única liderança técnica. Entre os resultados está a reconstrução do ambiente e a volta do ERP WinThor em tempo recorde após um sinistro.
 
 ### Formação, idiomas e certificações
 
-* **Formação:** Mestrado em Ciência da Computação (UEFS) • Pós-graduação em Gestão de TI (UniFTC) • Bacharelado em Sistemas de Informação (UniFTC)
+* **Formação:** Mestrado em Ciência da Computação, UEFS, 2021–2023 (dissertação sobre estimação computacional de fibrose intersticial, em visão computacional) • Especialização em Gestão de TI (2010–2012) e Bacharelado em Sistemas de Informação (2006–2010), UniFTC • Licenciatura em Letras, UESB
 * **Idiomas:** Português (nativo) • Inglês e Espanhol (profissional)
-* **Certificações:** Docência e Tutoria em Back-End Python (720h) • Python e Data Science (187h) • Desenvolvimento Back-End .NET (155h) • Gestão de Projetos e Tecnologias Ágeis (65h) • IA e Machine Learning (61h)
+* **Certificações:** Docência e Tutoria em Back-End Python (720h) • Python e Data Science (187h) • Desenvolvimento Back-End .NET (155h) • Gestão de Projetos e Tecnologias Ágeis (65h) • IA e Machine Learning (61h) • ResTIC36 Fase 1 (720h) e Fase 2 (1.200h)
+* **Pesquisa:** [Currículo Lattes](http://lattes.cnpq.br/1514993227261604)
 
 ---
 
