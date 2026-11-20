@@ -2,7 +2,7 @@
 
 # **MARCOS MORAIS DE SOUSA**
 
-### **Líder de Produto e Tecnologia • ERP • Inteligência Artificial • Transformação Digital**
+### **Líder de Tecnologia e Produto • Product Management • Engenharia de Software • ERP B2B e IA**
 
 **Honra. Meu princípio. Minha identidade.**
 
@@ -12,23 +12,26 @@ Bahia, Brasil • [LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) • [AU
 
 ## Resumo Executivo
 
-Há mais de **25 anos** transformo desafios complexos em resultados mensuráveis com tecnologia. Sou **Mestre em Ciência da Computação** e atuo de forma **hands-on** na convergência entre **Produto, Engenharia de Software, ERP e Inteligência Artificial**, nos setores de Saúde, Varejo, Indústria, Educação, Agronegócio e Fintech.
+Há mais de **25 anos** transformo desafios complexos em resultados mensuráveis de negócio com tecnologia. Sou **Mestre em Ciência da Computação (UEFS)** e conecto a gestão de produtos e a arquitetura de soluções ao rigor da engenharia de software, da inteligência artificial e dos sistemas B2B e ERP, em saúde, varejo, indústria, educação, agronegócio e fintech.
 
-Hoje lidero dois produtos: o **ServLet**, PDV e gestão com NFC-e, e a **AUTVS**, analytics e IA para empresas que usam TOTVS WinThor. Os dois rodam em paralelo, e dedico mais tempo a cada um conforme a fase em que está.
+Atuo com **ownership, autonomia e liderança hands-on**: assumo a responsabilidade de ponta a ponta, decido com base em impacto real e trabalho lado a lado com os times para destravar gargalos.
 
-**Aberto a conversas sobre liderança de produto e tecnologia, ERP e IA aplicada a negócios.**
+Hoje lidero dois produtos em paralelo: o **ServLet**, ERP e PDV com NFC-e, e a **AUTVS**, analytics e IA para empresas que usam TOTVS WinThor. Alterno a dedicação conforme a fase de cada um.
+
+**Aberto a conversas sobre CTO, Diretoria de TI, Head de Produto, Product Owner e Gerência de Projetos de TI.**
 
 ---
 
 ## Resultados
 
-| Iniciativa                     | Resultado                                                                 |
-| ------------------------------ | ------------------------------------------------------------------------- |
-| 🚀 ERP ServLet                 | Entrega do produto antecipada em **7 meses**                              |
-| 📊 Implantação TOTVS WinThor   | Redução de **75%** no tempo de implantação                                |
-| 🎓 ResTIC36 / CEPEDI           | **1.000+ profissionais** formados em tecnologia                           |
-| 🏆 Bahia Innovate Summit 2025  | **3º lugar em Inovação** entre mais de 40 projetos                        |
-| 🧬 PathoSpotter (UEFS/Fiocruz) | **100% de reprodutibilidade** nas análises de imagem apoiadas por IA      |
+| Iniciativa | Resultado |
+| ---------- | --------- |
+| 🚀 **ERP ServLet** | Entrega antecipada em **7 meses**: projeto em testes e validação no 6º mês de um ciclo de 12. Modernização (Node.js, .NET, PostgreSQL) com **mais de 30% de redução** de custo operacional, para cerca de 200 empresas clientes |
+| 📊 **Implantação TOTVS WinThor** | Ciclo reduzido de **180 para 45 dias (-75%)**, com parametrização otimizada e treinamento padronizado |
+| 🎓 **ResTIC36 / CEPEDI** | **1.000+ residentes** formados em 9 polos da Bahia e **1.920 horas** de execução e supervisão |
+| 🏆 **Bahia Innovate Summit 2025** | **3º lugar** entre 40 projetos. Liderei 2 equipes de 7 desenvolvedores, e o time foi absorvido por empresa parceira |
+| 🧬 **PathoSpotter (UEFS/Fiocruz)** | **100% de reprodutibilidade** na análise por IA, contra variabilidade humana de até 30%, com **95% de precisão diagnóstica** |
+| ©️ **Gerador .NET** | Gerador de código C# e SQL criado por mim em torno de 2010, **registrado no INPI** |
 
 ---
 
@@ -42,36 +45,47 @@ Conecta ao WinThor em **modo somente leitura** e reúne vendas, margem, estoque,
 
 `.NET` `C#` `PostgreSQL` `Oracle` `Angular` `Docker` `IA Generativa`
 
-### 🛒 ServLet: PDV e gestão com NFC-e
+### 🛒 ServLet: ERP e PDV com NFC-e
 
 🔗 https://servlet.com.br
 
-PDV e gestão num sistema só: nota rejeitada, estoque no mínimo e diferença de caixa aparecem na hora, antes de virar prejuízo. Inclui fiado, multiloja e uma IA que conhece o negócio.
+Modernização de um ERP end-to-end e de toda a plataforma de PDV, com arquitetura pensada para escalar de 200 para 1.000 empresas sem mudar a infraestrutura. Nota rejeitada, estoque no mínimo e diferença de caixa aparecem na hora, antes de virar prejuízo. Inclui fiado, multiloja e IA.
 
-`PDV` `NFC-e` `Multiloja` `Estoque` `Financeiro` `IA`
+`Node.js` `.NET` `PostgreSQL` `NFC-e` `Multiloja` `IA`
+
+### 🌱 iAGRO / Campo Inteligente
+
+🔗 https://www.campointeligente.agr.br
+
+Agente de IA para o agronegócio (clima, preços e planejamento de cultivo), integrável a web, mobile e WhatsApp. Sou cofundador e Product Owner da startup. Nasceu na Residência ResTIC36 e ficou em 3º lugar no Bahia Innovate Summit 2025.
+
+`Python` `Django` `Next.js` `PostgreSQL` `Machine Learning`
 
 ---
 
 ## Outros Projetos
 
-* 🌱 **iAGRO**: IA para o agronegócio. [campointeligente.agr.br](https://www.campointeligente.agr.br) • Python, Django, Next.js, PostgreSQL, Machine Learning
 * 💰 **MyInvest**: gestão de investimentos. [Vídeo](https://youtu.be/dWD19dZna6k) • ASP.NET Core, Angular, PostgreSQL
-* 🧬 **PathoSpotter**: visão computacional na pesquisa médica. [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br) • Python, OpenCV, Cytomine
+* 🧬 **PathoSpotter**: visão computacional na pesquisa médica, com imagens de até 100 GB. [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br) • Python, Cytomine, Docker
 
 ---
 
 ## Experiência
 
-| Período      | Cargo                                             | Organização                                    |
-| ------------ | ------------------------------------------------- | ---------------------------------------------- |
-| 2026 – Atual | Product Owner e Tech Lead                         | ERP ServLet                                    |
-| 2026 – Atual | Criador e líder do produto                        | AUTVS                                          |
-| 2024 – 2025  | Gerente de Projetos e Tech Lead                   | CEPEDI (ResTIC36)                              |
-| 2019 – 2021  | Pesquisador em IA                                 | UEFS / Fiocruz                                 |
-| 2011 – 2023  | Professor Universitário                           | Instituições públicas e privadas               |
-| 2005 – Atual | Gerente de TI e Engenheiro de Software            | Grupo Valdir Barreto e Fibrasol                |
+| Período | Cargo | Organização |
+| ------- | ----- | ----------- |
+| 2026 – Atual | Criador e líder do produto | AUTVS |
+| fev. 2026 – Atual | Product Owner e Gerente de Projetos | ERP ServLet |
+| mar. 2025 – Atual | Cofundador e Product Owner | Campo Inteligente (iAGRO) |
+| jan. – out. 2025 | Coordenador de Desenvolvimento e Gerente de Projetos (Fase 2) | CEPEDI, ResTIC36 |
+| jul. 2024 – jan. 2025 | Pesquisador Orientador+ e tutor líder estadual em Back-End (Fase 1) | CEPEDI, ResTIC36 |
+| 2021 – 2022 | Pesquisador Científico em IA e Visão Computacional | UEFS / Fiocruz |
+| 2012 – 2021 | Professor de Ensino Superior | UniFTC |
+| 2015 – Atual | Coordenador e Gerente de Projetos de TI | Barreto Material de Construção |
+| 2003 – Atual | Coordenador e Gerente de Projetos de TI | Fibrasol |
+| 1995 – 2015 | Operador de sistemas, desenvolvedor sênior e analista de sistemas sênior | Grupo Valdir Barreto |
 
-Atuo em ServLet e AUTVS ao mesmo tempo, alternando a dedicação conforme a demanda de cada fase.
+No Grupo Valdir Barreto, a governança de TI das 5 empresas fica sob uma única liderança técnica. Entre os resultados está a reconstrução do ambiente e a volta do ERP WinThor em tempo recorde após um sinistro.
 
 **Formação:** Mestrado em Ciência da Computação, UEFS.
 
@@ -79,13 +93,13 @@ Atuo em ServLet e AUTVS ao mesmo tempo, alternando a dedicação conforme a dema
 
 ## Competências
 
-| Produto e Liderança            | Engenharia e Arquitetura                       | IA e Dados                              |
-| ------------------------------ | ---------------------------------------------- | --------------------------------------- |
-| Estratégia, roadmap e backlog  | Arquitetura de soluções e APIs                 | IA generativa e linguagem natural       |
-| Liderança de times             | .NET, C#, Python, Node.js                      | Machine Learning e Visão Computacional  |
-| Transformação digital          | Angular, Next.js, TypeScript                   | Analytics e BI sobre ERP                |
-| Agile e Scrum                  | PostgreSQL, Oracle, SQL Server                 | Automação inteligente                   |
-| ERP TOTVS WinThor              | Docker, GitHub Actions, Azure DevOps           | Dados fiscais (NF-e e NFC-e)            |
+| Produto e Liderança | Engenharia e Arquitetura | IA e Dados |
+| ------------------- | ------------------------ | ---------- |
+| Estratégia, roadmap e backlog | Arquitetura de soluções e APIs | IA generativa e linguagem natural |
+| Liderança de times | .NET, C#, Python, Node.js | Machine Learning e Visão Computacional |
+| Transformação digital | Angular, Next.js, TypeScript | Analytics e BI sobre ERP |
+| Agile, Scrum e Kanban | PostgreSQL, Oracle, SQL Server | Automação inteligente |
+| ERP TOTVS WinThor | Docker, GitHub Actions, Azure DevOps | Dados fiscais (NF-e e NFC-e) |
 
 ---
 
