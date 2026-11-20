@@ -126,16 +126,6 @@ Python • OpenCV • Cytomine • PostgreSQL • Docker • Computer Vision
 
 ---
 
-## Formação Acadêmica
-
-| Titulação                                              | Instituição |
-| ------------------------------------------------------ | ----------- |
-| 🎓 Mestre em Ciência da Computação                     | UEFS        |
-| 🎓 Pós-Graduação em Gestão de Tecnologia da Informação | UniFTC      |
-| 🎓 Bacharel em Sistemas de Informação                  | UniFTC      |
-
----
-
 > **Tecnologia só cumpre seu papel quando resolve problemas reais, simplifica o cotidiano e gera valor sustentável para pessoas e organizações.**
 
 ---
