@@ -2,162 +2,90 @@
 
 # **MARCOS MORAIS DE SOUSA**
 
-### **Technology Leader • Product Owner • Software Engineering • ERP • AI • Digital Transformation**
+### **Líder de Produto e Tecnologia • ERP • Inteligência Artificial • Transformação Digital**
 
 **Honra. Meu princípio. Minha identidade.**
 
-[LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) • [GitHub](https://github.com/marcosmoraisjr) • [AUTVS](https://autvs.com) • [ServLet](https://servlet.com.br)
+Bahia, Brasil • [LinkedIn](https://www.linkedin.com/in/marcosmoraisjr) • [AUTVS](https://autvs.com) • [ServLet](https://servlet.com.br)
 
 ---
 
 ## Resumo Executivo
 
-Há mais de **25 anos**, transformo desafios complexos em resultados mensuráveis por meio da tecnologia.
+Há mais de **25 anos** transformo desafios complexos em resultados mensuráveis com tecnologia. Sou **Mestre em Ciência da Computação** e atuo de forma **hands-on** na convergência entre **Produto, Engenharia de Software, ERP e Inteligência Artificial**, nos setores de Saúde, Varejo, Indústria, Educação, Agronegócio e Fintech.
 
-Atuo na convergência entre **Gestão de Produtos, Engenharia de Software, Arquitetura de Soluções, ERP e Inteligência Artificial**, liderando iniciativas de transformação digital nos setores de **Saúde, Varejo, Indústria, Educação, Agronegócio e Fintech**.
+Hoje lidero dois produtos: o **ServLet**, PDV e gestão com NFC-e, e a **AUTVS**, analytics e IA para empresas que usam TOTVS WinThor. Os dois rodam em paralelo, e dedico mais tempo a cada um conforme a fase em que está.
 
-Hoje dedico a maior parte do meu tempo a dois produtos que levam essa visão ao mercado: a **AUTVS**, analytics e IA para empresas que usam TOTVS WinThor, e o **ServLet**, PDV e sistema de gestão com NFC-e.
-
-Sou **Mestre em Ciência da Computação** e mantenho uma atuação **hands-on**, conectando estratégia, produto, arquitetura e execução para acelerar entregas, reduzir riscos e gerar valor sustentável para organizações.
+**Aberto a conversas sobre liderança de produto e tecnologia, ERP e IA aplicada a negócios.**
 
 ---
 
-## Impacto Gerado
+## Resultados
 
-| Iniciativa                     | Resultado                                                 |
-| ------------------------------ | --------------------------------------------------------- |
-| 🧠 AUTVS                       | Analytics e IA em linguagem natural sobre o WinThor, **somente leitura** |
-| 🚀 ERP SERVLET                 | Antecipação da entrega do produto em **7 meses**          |
-| 📊 ERP TOTVS WinThor           | Redução de **75%** no tempo de implantação                |
-| 🎓 ResTIC36 / CEPEDI           | Formação de **1.000+ profissionais** em tecnologia        |
-| 🏆 Bahia Innovate Summit 2025  | **3º Lugar em Inovação** entre mais de 40 projetos        |
-| 🧬 PathoSpotter (UEFS/Fiocruz) | **100% de reprodutibilidade** em análises apoiadas por IA |
-
----
-
-## Especialidades
-
-| Gestão de Produtos & Liderança | Engenharia & Arquitetura | IA & Inovação           |
-| ------------------------------ | ------------------------ | ----------------------- |
-| Product Management             | Software Engineering     | Artificial Intelligence |
-| Product Ownership              | Solution Architecture    | Machine Learning        |
-| Project Management             | APIs & Integrations      | Computer Vision         |
-| Tech Leadership                | Microservices            | Generative AI           |
-| Agile & Scrum                  | Cloud & DevOps           | Intelligent Automation  |
-| Digital Transformation         | Enterprise Systems (ERP) | Data-Driven Solutions   |
+| Iniciativa                     | Resultado                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| 🚀 ERP ServLet                 | Entrega do produto antecipada em **7 meses**                              |
+| 📊 Implantação TOTVS WinThor   | Redução de **75%** no tempo de implantação                                |
+| 🎓 ResTIC36 / CEPEDI           | **1.000+ profissionais** formados em tecnologia                           |
+| 🏆 Bahia Innovate Summit 2025  | **3º lugar em Inovação** entre mais de 40 projetos                        |
+| 🧬 PathoSpotter (UEFS/Fiocruz) | **100% de reprodutibilidade** nas análises de imagem apoiadas por IA      |
 
 ---
 
-## Stack Principal
+## Produtos
 
-| Categoria      | Tecnologias                            |
-| -------------- | -------------------------------------- |
-| Backend        | .NET • C# • Python • Node.js           |
-| Frontend       | Angular • Next.js • TypeScript         |
-| Banco de Dados | PostgreSQL • Oracle • SQL Server       |
-| DevOps         | Docker • GitHub Actions • Azure DevOps |
-| ERP            | TOTVS WinThor • ERP SERVLET • NFC-e/NF-e |
-| IA             | IA Generativa • Linguagem Natural sobre dados |
-
----
-
-## Setores de Atuação
-
-🏥 Saúde Digital • 🏭 Indústria • 🛒 Varejo • 🌱 Agronegócio
-
-💰 Fintech • 🎓 Educação • 📦 ERP & Supply Chain
-
----
-
-## Produtos em Destaque
-
-### 🧠 AUTVS
-
-**Analytics e Inteligência Avançada para empresas que usam TOTVS WinThor**
+### 🧠 AUTVS: analytics e IA para TOTVS WinThor
 
 🔗 https://autvs.com
 
-Conecta ao WinThor em **modo somente leitura** e reúne vendas, margem, estoque, financeiro, clientes e fiscal em painéis inteligentes. O **iAutvs** responde em linguagem natural, sem relatório novo e sem escrever SQL, e aponta queda de margem, atraso de clientes e ruptura de estoque sem esperar o fechamento do mês.
+Conecta ao WinThor em **modo somente leitura** e reúne vendas, margem, estoque, financeiro, clientes e fiscal em painéis inteligentes. O **iAutvs** responde em linguagem natural, sem relatório novo e sem SQL, e antecipa queda de margem, atraso de clientes e ruptura de estoque. A **Gestão Fiscal** consulta a SEFAZ com o certificado da empresa e compara as notas emitidas contra o CNPJ com o que foi lançado no WinThor.
 
-* **Gestão Fiscal:** consulta a SEFAZ com o certificado digital da empresa, mostra as notas emitidas contra o CNPJ e compara com o que foi lançado no WinThor.
-* **Segurança:** mesmo login do WinThor e acesso por filial e RCA.
-* **Planos:** Essencial, Fiscal, Inteligente e Completo.
+`.NET` `C#` `PostgreSQL` `Oracle` `Angular` `Docker` `IA Generativa`
 
-.NET • C# • PostgreSQL • Oracle (WinThor) • Angular • Docker • IA Generativa
-
----
-
-### 🛒 ServLet
-
-**PDV e sistema de gestão com NFC-e**
+### 🛒 ServLet: PDV e gestão com NFC-e
 
 🔗 https://servlet.com.br
 
-O PDV e a gestão da empresa num sistema só: nota rejeitada, estoque no mínimo e diferença de caixa aparecem na hora, antes de virar prejuízo. Inclui controle de fiado, gestão multiloja e uma IA que conhece o negócio. Todos os módulos em todos os planos (Bronze, Prata, Ouro, Diamante e Black).
+PDV e gestão num sistema só: nota rejeitada, estoque no mínimo e diferença de caixa aparecem na hora, antes de virar prejuízo. Inclui fiado, multiloja e uma IA que conhece o negócio.
 
-PDV • NFC-e • Gestão Multiloja • Estoque • Financeiro • IA
+`PDV` `NFC-e` `Multiloja` `Estoque` `Financeiro` `IA`
 
 ---
 
 ## Outros Projetos
 
-### 🌱 iAGRO
-
-**Plataforma de Inteligência Artificial para o Agronegócio**
-
-🔗 https://www.campointeligente.agr.br
-
-Python • Django • Next.js • PostgreSQL • Docker • APIs Climáticas • WhatsApp API • Machine Learning
+* 🌱 **iAGRO**: IA para o agronegócio. [campointeligente.agr.br](https://www.campointeligente.agr.br) • Python, Django, Next.js, PostgreSQL, Machine Learning
+* 💰 **MyInvest**: gestão de investimentos. [Vídeo](https://youtu.be/dWD19dZna6k) • ASP.NET Core, Angular, PostgreSQL
+* 🧬 **PathoSpotter**: visão computacional na pesquisa médica. [pathospotter.bahia.fiocruz.br](https://pathospotter.bahia.fiocruz.br) • Python, OpenCV, Cytomine
 
 ---
 
-### 📊 PRISMA
+## Experiência
 
-**Business Intelligence para ERP WinThor**
+| Período      | Cargo                                             | Organização                                    |
+| ------------ | ------------------------------------------------- | ---------------------------------------------- |
+| 2026 – Atual | Product Owner e Tech Lead                         | ERP ServLet                                    |
+| 2026 – Atual | Criador e líder do produto                        | AUTVS                                          |
+| 2024 – 2025  | Gerente de Projetos e Tech Lead                   | CEPEDI (ResTIC36)                              |
+| 2019 – 2021  | Pesquisador em IA                                 | UEFS / Fiocruz                                 |
+| 2011 – 2023  | Professor Universitário                           | Instituições públicas e privadas               |
+| 2005 – Atual | Gerente de TI e Engenheiro de Software            | Grupo Valdir Barreto e Fibrasol                |
 
-Plataforma de Analytics e Inteligência Artificial para executivos, gestores e analistas, oferecendo indicadores estratégicos, dashboards em tempo real e suporte à tomada de decisão.
+Atuo em ServLet e AUTVS ao mesmo tempo, alternando a dedicação conforme a demanda de cada fase.
 
----
-
-### 💰 MyInvest
-
-**Plataforma Fintech para Gestão de Investimentos**
-
-🔗 https://youtu.be/dWD19dZna6k
-
-ASP.NET Core • Angular • PostgreSQL • Docker • Yahoo Finance API
-
----
-
-### 🧬 PathoSpotter
-
-**Visão Computacional Aplicada à Pesquisa Médica**
-
-🔗 https://pathospotter.bahia.fiocruz.br
-
-Python • OpenCV • Cytomine • PostgreSQL • Docker • Computer Vision
+**Formação:** Mestrado em Ciência da Computação, UEFS.
 
 ---
 
-## Experiência Profissional
+## Competências
 
-| Período      | Cargo                                       | Organização                      |
-| ------------ | ------------------------------------------- | -------------------------------- |
-| 2026 – Atual | Product Owner / Project Manager / Tech Lead | ERP SERVLET ([servlet.com.br](https://servlet.com.br)) |
-| 2026 – Atual | Criação e liderança do produto              | AUTVS ([autvs.com](https://autvs.com)) |
-| 2024 – 2025  | Gerente de Projetos / Tech Lead             | CEPEDI (ResTIC36)                |
-| 2005 – Atual | Gerente de TI / Engenheiro de Software      | Grupo Valdir Barreto & Fibrasol  |
-| 2019 – 2021  | Pesquisador em IA                           | UEFS / Fiocruz                   |
-| 2011 – 2023  | Professor Universitário                     | Instituições Públicas e Privadas |
-
-### Principais Responsabilidades
-
-* Liderança de produtos digitais e plataformas ERP.
-* Gestão de roadmap, backlog e estratégia de produto.
-* Arquitetura de soluções corporativas e integrações.
-* Transformação digital e modernização tecnológica.
-* Formação e liderança de equipes multidisciplinares.
-* Pesquisa aplicada em Inteligência Artificial e Visão Computacional.
+| Produto e Liderança            | Engenharia e Arquitetura                       | IA e Dados                              |
+| ------------------------------ | ---------------------------------------------- | --------------------------------------- |
+| Estratégia, roadmap e backlog  | Arquitetura de soluções e APIs                 | IA generativa e linguagem natural       |
+| Liderança de times             | .NET, C#, Python, Node.js                      | Machine Learning e Visão Computacional  |
+| Transformação digital          | Angular, Next.js, TypeScript                   | Analytics e BI sobre ERP                |
+| Agile e Scrum                  | PostgreSQL, Oracle, SQL Server                 | Automação inteligente                   |
+| ERP TOTVS WinThor              | Docker, GitHub Actions, Azure DevOps           | Dados fiscais (NF-e e NFC-e)            |
 
 ---
 
@@ -172,11 +100,11 @@ Python • OpenCV • Cytomine • PostgreSQL • Docker • Computer Vision
 ---
 
 <a href="https://www.linkedin.com/in/marcosmoraisjr/">
-   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=00D9FF&random=false&width=700&lines=Marcos+Morais;Technology+Leader;Product+Owner+%26+Tech+Lead;ERP+%E2%80%A2+AI+%E2%80%A2+Software+Engineering;25%2B+Years+Building+Digital+Solutions" alt="Typing Animation" />
+   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1000&color=00D9FF&random=false&width=700&lines=Marcos+Morais;L%C3%ADder+de+Produto+e+Tecnologia;Product+Owner+e+Tech+Lead;ERP+%E2%80%A2+IA+%E2%80%A2+Engenharia+de+Software;25%2B+Anos+Construindo+Solu%C3%A7%C3%B5es+Digitais" alt="Typing Animation" />
 </a>
 
 <h4 align="center">
-Building products, teams and digital solutions that generate measurable business value.
+Construindo produtos, times e soluções digitais que geram valor mensurável para o negócio.
 </h4>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
