@@ -30,7 +30,7 @@ Hoje lidero dois produtos em paralelo: o **ServLet**, ERP e PDV com NFC-e, e a *
 | 📊 **Implantação TOTVS WinThor** | Ciclo reduzido de **180 para 45 dias (-75%)**, com parametrização otimizada e treinamento padronizado |
 | 🎓 **ResTIC36 / CEPEDI** | **1.000+ residentes** formados em 9 polos da Bahia e **1.920 horas** de execução e supervisão |
 | 🏆 **Bahia Innovate Summit 2025** | **3º lugar** entre 40 projetos. Liderei 2 equipes de 7 desenvolvedores, e o time foi absorvido por empresa parceira |
-| 🧬 **PathoSpotter (UEFS/Fiocruz)** | **100% de reprodutibilidade** na análise por IA, contra variabilidade humana de até 30%, com **95% de precisão diagnóstica** |
+| 🧬 **PathoSpotter (UEFS/Fiocruz)** | **100% de reprodutibilidade** na análise por IA, contra variabilidade humana de até 30% |
 | ©️ **Propriedade intelectual** | **4 softwares registrados no INPI**: iAGRO, Check-Aê, Minhas Escolhas Alimentares e Gerador .NET (ferramenta de desenvolvimento ágil em C#/.NET que criei por volta de 2010 e registrei em 2026) |
 | 📚 **Produção e docência** | Organizador de livro e autor de capítulo (2025), **14 TCCs orientados**, professor homenageado em 2014 e 9 anos de docência superior |
 
@@ -92,7 +92,7 @@ No Grupo Valdir Barreto, a governança de TI das 5 empresas fica sob uma única 
 ### Formação, idiomas e certificações
 
 * **Formação:** Mestrado em Ciência da Computação, UEFS, 2021–2023 (dissertação sobre estimação computacional de fibrose intersticial, em visão computacional) • Especialização em Gestão de TI (2010–2012) e Bacharelado em Sistemas de Informação (2006–2010), UniFTC • Licenciatura em Letras, UESB
-* **Idiomas:** Português (nativo) • Inglês e Espanhol (profissional)
+* **Idiomas:** Português (nativo) • Inglês (leitura e compreensão técnica) • Espanhol (compreensão)
 * **Certificações:** Docência e Tutoria em Back-End Python (720h) • Python e Data Science (187h) • Desenvolvimento Back-End .NET (155h) • Gestão de Projetos e Tecnologias Ágeis (65h) • IA e Machine Learning (61h) • ResTIC36 Fase 1 (720h) e Fase 2 (1.200h)
 * **Pesquisa:** [Currículo Lattes](http://lattes.cnpq.br/1514993227261604)
 
