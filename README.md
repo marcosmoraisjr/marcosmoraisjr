@@ -87,7 +87,11 @@ Agente de IA para o agronegócio (clima, preços e planejamento de cultivo), int
 
 No Grupo Valdir Barreto, a governança de TI das 5 empresas fica sob uma única liderança técnica. Entre os resultados está a reconstrução do ambiente e a volta do ERP WinThor em tempo recorde após um sinistro.
 
-**Formação:** Mestrado em Ciência da Computação, UEFS.
+### Formação, idiomas e certificações
+
+* **Formação:** Mestrado em Ciência da Computação (UEFS) • Pós-graduação em Gestão de TI (UniFTC) • Bacharelado em Sistemas de Informação (UniFTC)
+* **Idiomas:** Português (nativo) • Inglês e Espanhol (profissional)
+* **Certificações:** Docência e Tutoria em Back-End Python (720h) • Python e Data Science (187h) • Desenvolvimento Back-End .NET (155h) • Gestão de Projetos e Tecnologias Ágeis (65h) • IA e Machine Learning (61h)
 
 ---
 
